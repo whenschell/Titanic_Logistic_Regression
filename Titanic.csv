@@ -1,0 +1,1310 @@
+Name,Survived,Gender,Age,Traveling_Alone,Ticket_Fare(lbs)
+"Allen, Miss. Elisabeth Walton",Yes,Female,29,Alone,211.3375
+"Allison, Master. Hudson Trevor",Yes,Male,0,Not_Alone,151.55
+"Allison, Miss. Helen Loraine",No,Female,2,Not_Alone,151.55
+"Allison, Mr. Hudson Joshua Creighton",No,Male,30,Not_Alone,151.55
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",No,Female,25,Not_Alone,151.55
+"Anderson, Mr. Harry",Yes,Male,48,Alone,26.55
+"Andrews, Miss. Kornelia Theodosia",Yes,Female,63,Not_Alone,77.9583
+"Andrews, Mr. Thomas Jr",No,Male,39,Alone,0
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Yes,Female,53,Not_Alone,51.4792
+"Artagaveytia, Mr. Ramon",No,Male,71,Alone,49.5042
+"Astor, Col. John Jacob",No,Male,47,Not_Alone,227.525
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Yes,Female,18,Not_Alone,227.525
+"Aubart, Mme. Leontine Pauline",Yes,Female,24,Alone,69.3
+"Barber, Miss. Ellen ""Nellie""",Yes,Female,26,Alone,78.85
+"Barkworth, Mr. Algernon Henry Wilson",Yes,Male,80,Alone,30
+"Baumann, Mr. John D",No,Male,,Alone,25.925
+"Baxter, Mr. Quigg Edmond",No,Male,24,Not_Alone,247.5208
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Yes,Female,50,Not_Alone,247.5208
+"Bazzani, Miss. Albina",Yes,Female,32,Alone,76.2917
+"Beattie, Mr. Thomson",No,Male,36,Alone,75.2417
+"Beckwith, Mr. Richard Leonard",Yes,Male,37,Not_Alone,52.5542
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Yes,Female,47,Not_Alone,52.5542
+"Behr, Mr. Karl Howell",Yes,Male,26,Alone,30
+"Bidois, Miss. Rosalie",Yes,Female,42,Alone,227.525
+"Bird, Miss. Ellen",Yes,Female,29,Alone,221.7792
+"Birnbaum, Mr. Jakob",No,Male,25,Alone,26
+"Bishop, Mr. Dickinson H",Yes,Male,25,Not_Alone,91.0792
+"Bishop, Mrs. Dickinson H (Helen Walton)",Yes,Female,19,Not_Alone,91.0792
+"Bissette, Miss. Amelia",Yes,Female,35,Alone,135.6333
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Yes,Male,28,Alone,26.55
+"Blackwell, Mr. Stephen Weart",No,Male,45,Alone,35.5
+"Blank, Mr. Henry",Yes,Male,40,Alone,31
+"Bonnell, Miss. Caroline",Yes,Female,30,Alone,164.8667
+"Bonnell, Miss. Elizabeth",Yes,Female,58,Alone,26.55
+"Borebank, Mr. John James",No,Male,42,Alone,26.55
+"Bowen, Miss. Grace Scott",Yes,Female,45,Alone,262.375
+"Bowerman, Miss. Elsie Edith",Yes,Female,22,Not_Alone,55
+"Bradley, Mr. George (""George Arthur Brayton"")",Yes,Male,,Alone,26.55
+"Brady, Mr. John Bertram",No,Male,41,Alone,30.5
+"Brandeis, Mr. Emil",No,Male,48,Alone,50.4958
+"Brewe, Dr. Arthur Jackson",No,Male,,Alone,39.6
+"Brown, Mrs. James Joseph (Margaret Tobin)",Yes,Female,44,Alone,27.7208
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",Yes,Female,59,Not_Alone,51.4792
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Yes,Female,60,Alone,76.2917
+"Burns, Miss. Elizabeth Margaret",Yes,Female,41,Alone,134.5
+"Butt, Major. Archibald Willingham",No,Male,45,Alone,26.55
+"Cairns, Mr. Alexander",No,Male,,Alone,31
+"Calderhead, Mr. Edward Pennington",Yes,Male,42,Alone,26.2875
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",Yes,Female,53,Alone,27.4458
+"Cardeza, Mr. Thomas Drake Martinez",Yes,Male,36,Not_Alone,
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Yes,Female,58,Not_Alone,
+"Carlsson, Mr. Frans Olof",No,Male,33,Alone,5
+"Carrau, Mr. Francisco M",No,Male,28,Alone,47.1
+"Carrau, Mr. Jose Pedro",No,Male,17,Alone,47.1
+"Carter, Master. William Thornton II",Yes,Male,11,Not_Alone,120
+"Carter, Miss. Lucile Polk",Yes,Female,14,Not_Alone,120
+"Carter, Mr. William Ernest",Yes,Male,36,Not_Alone,120
+"Carter, Mrs. William Ernest (Lucile Polk)",Yes,Female,36,Not_Alone,120
+"Case, Mr. Howard Brown",No,Male,49,Alone,26
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Yes,Female,,Alone,27.7208
+"Cavendish, Mr. Tyrell William",No,Male,36,Not_Alone,78.85
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Yes,Female,76,Not_Alone,78.85
+"Chaffee, Mr. Herbert Fuller",No,Male,46,Not_Alone,61.175
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Yes,Female,47,Not_Alone,61.175
+"Chambers, Mr. Norman Campbell",Yes,Male,27,Not_Alone,53.1
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Yes,Female,33,Not_Alone,53.1
+"Chaudanson, Miss. Victorine",Yes,Female,36,Alone,262.375
+"Cherry, Miss. Gladys",Yes,Female,30,Alone,86.5
+"Chevre, Mr. Paul Romaine",Yes,Male,45,Alone,29.7
+"Chibnall, Mrs. (Edith Martha Bowerman)",Yes,Female,,Not_Alone,55
+"Chisholm, Mr. Roderick Robert Crispin",No,Male,,Alone,0
+"Clark, Mr. Walter Miller",No,Male,27,Not_Alone,136.7792
+"Clark, Mrs. Walter Miller (Virginia McDowell)",Yes,Female,26,Not_Alone,136.7792
+"Cleaver, Miss. Alice",Yes,Female,22,Alone,151.55
+"Clifford, Mr. George Quincy",No,Male,,Alone,52
+"Colley, Mr. Edward Pomeroy",No,Male,47,Alone,25.5875
+"Compton, Miss. Sara Rebecca",Yes,Female,39,Not_Alone,83.1583
+"Compton, Mr. Alexander Taylor Jr",No,Male,37,Not_Alone,83.1583
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Yes,Female,64,Not_Alone,83.1583
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Yes,Female,55,Not_Alone,25.7
+"Crafton, Mr. John Bertram",No,Male,,Alone,26.55
+"Crosby, Capt. Edward Gifford",No,Male,70,Not_Alone,71
+"Crosby, Miss. Harriet R",Yes,Female,36,Not_Alone,71
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Yes,Female,64,Not_Alone,26.55
+"Cumings, Mr. John Bradley",No,Male,39,Not_Alone,71.2833
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Yes,Female,38,Not_Alone,71.2833
+"Daly, Mr. Peter Denis",Yes,Male,51,Alone,26.55
+"Daniel, Mr. Robert Williams",Yes,Male,27,Alone,30.5
+"Daniels, Miss. Sarah",Yes,Female,33,Alone,151.55
+"Davidson, Mr. Thornton",No,Male,31,Not_Alone,52
+"Davidson, Mrs. Thornton (Orian Hays)",Yes,Female,27,Not_Alone,52
+"Dick, Mr. Albert Adrian",Yes,Male,31,Not_Alone,57
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",Yes,Female,17,Not_Alone,57
+"Dodge, Dr. Washington",Yes,Male,53,Not_Alone,81.8583
+"Dodge, Master. Washington",Yes,Male,4,Not_Alone,81.8583
+"Dodge, Mrs. Washington (Ruth Vidaver)",Yes,Female,54,Not_Alone,81.8583
+"Douglas, Mr. Walter Donald",No,Male,50,Not_Alone,106.425
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Yes,Female,27,Not_Alone,247.5208
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",Yes,Female,48,Not_Alone,106.425
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Yes,Female,48,Not_Alone,39.6
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Yes,Male,49,Not_Alone,56.9292
+"Dulles, Mr. William Crothers",No,Male,39,Alone,29.7
+"Earnshaw, Mrs. Boulton (Olive Potter)",Yes,Female,23,Not_Alone,83.1583
+"Endres, Miss. Caroline Louise",Yes,Female,38,Alone,227.525
+"Eustis, Miss. Elizabeth Mussey",Yes,Female,54,Not_Alone,78.2667
+"Evans, Miss. Edith Corse",No,Female,36,Alone,31.6792
+"Farthing, Mr. John",No,Male,,Alone,221.7792
+"Flegenheim, Mrs. Alfred (Antoinette)",Yes,Female,,Alone,31.6833
+"Fleming, Miss. Margaret",Yes,Female,,Alone,110.8833
+"Flynn, Mr. John Irwin (""Irving"")",Yes,Male,36,Alone,26.3875
+"Foreman, Mr. Benjamin Laventall",No,Male,30,Alone,27.75
+"Fortune, Miss. Alice Elizabeth",Yes,Female,24,Not_Alone,263
+"Fortune, Miss. Ethel Flora",Yes,Female,28,Not_Alone,263
+"Fortune, Miss. Mabel Helen",Yes,Female,23,Not_Alone,263
+"Fortune, Mr. Charles Alexander",No,Male,19,Not_Alone,263
+"Fortune, Mr. Mark",No,Male,64,Not_Alone,263
+"Fortune, Mrs. Mark (Mary McDougald)",Yes,Female,60,Not_Alone,263
+"Francatelli, Miss. Laura Mabel",Yes,Female,30,Alone,56.9292
+"Franklin, Mr. Thomas Parham",No,Male,,Alone,26.55
+"Frauenthal, Dr. Henry William",Yes,Male,50,Not_Alone,133.65
+"Frauenthal, Mr. Isaac Gerald",Yes,Male,43,Not_Alone,27.7208
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Yes,Female,,Not_Alone,133.65
+"Frolicher, Miss. Hedwig Margaritha",Yes,Female,22,Not_Alone,49.5
+"Frolicher-Stehli, Mr. Maxmillian",Yes,Male,60,Not_Alone,79.2
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Yes,Female,48,Not_Alone,79.2
+"Fry, Mr. Richard",No,Male,,Alone,0
+"Futrelle, Mr. Jacques Heath",No,Male,37,Not_Alone,53.1
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Yes,Female,35,Not_Alone,53.1
+"Gee, Mr. Arthur H",No,Male,47,Alone,38.5
+"Geiger, Miss. Amalie",Yes,Female,35,Alone,211.5
+"Gibson, Miss. Dorothy Winifred",Yes,Female,22,Not_Alone,59.4
+"Gibson, Mrs. Leonard (Pauline C Boeson)",Yes,Female,45,Not_Alone,59.4
+"Giglio, Mr. Victor",No,Male,24,Alone,79.2
+"Goldenberg, Mr. Samuel L",Yes,Male,49,Not_Alone,89.1042
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Yes,Female,,Not_Alone,89.1042
+"Goldschmidt, Mr. George B",No,Male,71,Alone,34.6542
+"Gracie, Col. Archibald IV",Yes,Male,53,Alone,28.5
+"Graham, Miss. Margaret Edith",Yes,Female,19,Alone,30
+"Graham, Mr. George Edward",No,Male,38,Not_Alone,153.4625
+"Graham, Mrs. William Thompson (Edith Junkins)",Yes,Female,58,Not_Alone,153.4625
+"Greenfield, Mr. William Bertram",Yes,Male,23,Not_Alone,63.3583
+"Greenfield, Mrs. Leo David (Blanche Strouse)",Yes,Female,45,Not_Alone,63.3583
+"Guggenheim, Mr. Benjamin",No,Male,46,Alone,79.2
+"Harder, Mr. George Achilles",Yes,Male,25,Not_Alone,55.4417
+"Harder, Mrs. George Achilles (Dorothy Annan)",Yes,Female,25,Not_Alone,55.4417
+"Harper, Mr. Henry Sleeper",Yes,Male,48,Not_Alone,76.7292
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Yes,Female,49,Not_Alone,76.7292
+"Harrington, Mr. Charles H",No,Male,,Alone,42.4
+"Harris, Mr. Henry Birkhardt",No,Male,45,Not_Alone,83.475
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Yes,Female,35,Not_Alone,83.475
+"Harrison, Mr. William",No,Male,40,Alone,0
+"Hassab, Mr. Hammad",Yes,Male,27,Alone,76.7292
+"Hawksford, Mr. Walter James",Yes,Male,,Alone,30
+"Hays, Miss. Margaret Bechstein",Yes,Female,24,Alone,83.1583
+"Hays, Mr. Charles Melville",No,Male,55,Not_Alone,93.5
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Yes,Female,52,Not_Alone,93.5
+"Head, Mr. Christopher",No,Male,42,Alone,42.5
+"Hilliard, Mr. Herbert Henry",No,Male,,Alone,51.8625
+"Hipkins, Mr. William Edward",No,Male,55,Alone,50
+"Hippach, Miss. Jean Gertrude",Yes,Female,16,Not_Alone,57.9792
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Yes,Female,44,Not_Alone,57.9792
+"Hogeboom, Mrs. John C (Anna Andrews)",Yes,Female,51,Not_Alone,77.9583
+"Holverson, Mr. Alexander Oskar",No,Male,42,Not_Alone,52
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Yes,Female,35,Not_Alone,52
+"Homer, Mr. Harry (""Mr E Haven"")",Yes,Male,35,Alone,26.55
+"Hoyt, Mr. Frederick Maxfield",Yes,Male,38,Not_Alone,90
+"Hoyt, Mr. William Fisher",No,Male,,Alone,30.6958
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Yes,Female,35,Not_Alone,90
+"Icard, Miss. Amelie",Yes,Female,38,Alone,80
+"Isham, Miss. Ann Elizabeth",No,Female,50,Alone,28.7125
+"Ismay, Mr. Joseph Bruce",Yes,Male,49,Alone,0
+"Jones, Mr. Charles Cresson",No,Male,46,Alone,26
+"Julian, Mr. Henry Forbes",No,Male,50,Alone,26
+"Keeping, Mr. Edwin",No,Male,32.5,Alone,211.5
+"Kent, Mr. Edward Austin",No,Male,58,Alone,29.7
+"Kenyon, Mr. Frederick R",No,Male,41,Not_Alone,51.8625
+"Kenyon, Mrs. Frederick R (Marion)",Yes,Female,,Not_Alone,51.8625
+"Kimball, Mr. Edwin Nelson Jr",Yes,Male,42,Not_Alone,52.5542
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Yes,Female,45,Not_Alone,52.5542
+"Klaber, Mr. Herman",No,Male,,Alone,26.55
+"Kreuchen, Miss. Emilie",Yes,Female,39,Alone,211.3375
+"Leader, Dr. Alice (Farnham)",Yes,Female,49,Alone,25.9292
+"LeRoy, Miss. Bertha",Yes,Female,30,Alone,106.425
+"Lesurer, Mr. Gustave J",Yes,Male,35,Alone,
+"Lewy, Mr. Ervin G",No,Male,,Alone,27.7208
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",No,Male,42,Alone,26.55
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Yes,Female,55,Alone,27.7208
+"Lines, Miss. Mary Conover",Yes,Female,16,Not_Alone,39.4
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Yes,Female,51,Not_Alone,39.4
+"Long, Mr. Milton Clyde",No,Male,29,Alone,30
+"Longley, Miss. Gretchen Fiske",Yes,Female,21,Alone,77.9583
+"Loring, Mr. Joseph Holland",No,Male,30,Alone,45.5
+"Lurette, Miss. Elise",Yes,Female,58,Alone,146.5208
+"Madill, Miss. Georgette Alexandra",Yes,Female,15,Not_Alone,211.3375
+"Maguire, Mr. John Edward",No,Male,30,Alone,26
+"Maioni, Miss. Roberta",Yes,Female,16,Alone,86.5
+"Marechal, Mr. Pierre",Yes,Male,,Alone,29.7
+"Marvin, Mr. Daniel Warner",No,Male,19,Not_Alone,53.1
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Yes,Female,18,Not_Alone,53.1
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Yes,Female,24,Alone,49.5042
+"McCaffry, Mr. Thomas Francis",No,Male,46,Alone,75.2417
+"McCarthy, Mr. Timothy J",No,Male,54,Alone,51.8625
+"McGough, Mr. James Robert",Yes,Male,36,Alone,26.2875
+"Meyer, Mr. Edgar Joseph",No,Male,28,Not_Alone,82.1708
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",Yes,Female,,Not_Alone,82.1708
+"Millet, Mr. Francis Davis",No,Male,65,Alone,26.55
+"Minahan, Dr. William Edward",No,Male,44,Not_Alone,90
+"Minahan, Miss. Daisy E",Yes,Female,33,Not_Alone,90
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",Yes,Female,37,Not_Alone,90
+"Mock, Mr. Philipp Edmund",Yes,Male,30,Not_Alone,57.75
+"Molson, Mr. Harry Markland",No,Male,55,Alone,30.5
+"Moore, Mr. Clarence Bloomfield",No,Male,47,Alone,42.4
+"Natsch, Mr. Charles H",No,Male,37,Not_Alone,29.7
+"Newell, Miss. Madeleine",Yes,Female,31,Not_Alone,113.275
+"Newell, Miss. Marjorie",Yes,Female,23,Not_Alone,113.275
+"Newell, Mr. Arthur Webster",No,Male,58,Not_Alone,113.275
+"Newsom, Miss. Helen Monypeny",Yes,Female,19,Not_Alone,26.2833
+"Nicholson, Mr. Arthur Ernest",No,Male,64,Alone,26
+"Oliva y Ocana, Dona. Fermina",Yes,Female,39,Alone,108.9
+"Omont, Mr. Alfred Fernand",Yes,Male,,Alone,25.7417
+"Ostby, Miss. Helene Ragnhild",Yes,Female,22,Not_Alone,61.9792
+"Ostby, Mr. Engelhart Cornelius",No,Male,65,Not_Alone,61.9792
+"Ovies y Rodriguez, Mr. Servando",No,Male,28.5,Alone,27.7208
+"Parr, Mr. William Henry Marsh",No,Male,,Alone,0
+"Partner, Mr. Austen",No,Male,45.5,Alone,28.5
+"Payne, Mr. Vivian Ponsonby",No,Male,23,Alone,93.5
+"Pears, Mr. Thomas Clinton",No,Male,29,Not_Alone,66.6
+"Pears, Mrs. Thomas (Edith Wearne)",Yes,Female,22,Not_Alone,66.6
+"Penasco y Castellana, Mr. Victor de Satode",No,Male,18,Not_Alone,108.9
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Yes,Female,17,Not_Alone,108.9
+"Perreault, Miss. Anne",Yes,Female,30,Alone,93.5
+"Peuchen, Major. Arthur Godfrey",Yes,Male,52,Alone,30.5
+"Porter, Mr. Walter Chamberlain",No,Male,47,Alone,52
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Yes,Female,56,Not_Alone,83.1583
+"Reuchlin, Jonkheer. John George",No,Male,38,Alone,0
+"Rheims, Mr. George Alexander Lucien",Yes,Male,,Alone,39.6
+"Ringhini, Mr. Sante",No,Male,22,Alone,135.6333
+"Robbins, Mr. Victor",No,Male,,Alone,227.525
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Yes,Female,43,Not_Alone,211.3375
+"Roebling, Mr. Washington Augustus II",No,Male,31,Alone,50.4958
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Yes,Male,45,Alone,26.55
+"Rood, Mr. Hugh Roscoe",No,Male,,Alone,50
+"Rosenbaum, Miss. Edith Louise",Yes,Female,33,Alone,27.7208
+"Rosenshine, Mr. George (""Mr George Thorne"")",No,Male,46,Alone,79.2
+"Ross, Mr. John Hugo",No,Male,36,Alone,40.125
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Yes,Female,33,Alone,86.5
+"Rothschild, Mr. Martin",No,Male,55,Not_Alone,59.4
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Yes,Female,54,Not_Alone,59.4
+"Rowe, Mr. Alfred G",No,Male,33,Alone,26.55
+"Ryerson, Master. John Borie",Yes,Male,13,Not_Alone,262.375
+"Ryerson, Miss. Emily Borie",Yes,Female,18,Not_Alone,262.375
+"Ryerson, Miss. Susan Parker ""Suzette""",Yes,Female,21,Not_Alone,262.375
+"Ryerson, Mr. Arthur Larned",No,Male,61,Not_Alone,262.375
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Yes,Female,48,Not_Alone,262.375
+"Saalfeld, Mr. Adolphe",Yes,Male,,Alone,30.5
+"Sagesser, Mlle. Emma",Yes,Female,24,Alone,69.3
+"Salomon, Mr. Abraham L",Yes,Male,,Alone,26
+"Schabert, Mrs. Paul (Emma Mock)",Yes,Female,35,Not_Alone,57.75
+"Serepeca, Miss. Augusta",Yes,Female,30,Alone,31
+"Seward, Mr. Frederic Kimber",Yes,Male,34,Alone,26.55
+"Shutes, Miss. Elizabeth W",Yes,Female,40,Alone,153.4625
+"Silverthorne, Mr. Spencer Victor",Yes,Male,35,Alone,26.2875
+"Silvey, Mr. William Baird",No,Male,50,Not_Alone,55.9
+"Silvey, Mrs. William Baird (Alice Munger)",Yes,Female,39,Not_Alone,55.9
+"Simonius-Blumer, Col. Oberst Alfons",Yes,Male,56,Alone,35.5
+"Sloper, Mr. William Thompson",Yes,Male,28,Alone,35.5
+"Smart, Mr. John Montgomery",No,Male,56,Alone,26.55
+"Smith, Mr. James Clinch",No,Male,56,Alone,30.6958
+"Smith, Mr. Lucien Philip",No,Male,24,Not_Alone,60
+"Smith, Mr. Richard William",No,Male,,Alone,26
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Yes,Female,18,Not_Alone,60
+"Snyder, Mr. John Pillsbury",Yes,Male,24,Not_Alone,82.2667
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Yes,Female,23,Not_Alone,82.2667
+"Spedden, Master. Robert Douglas",Yes,Male,6,Not_Alone,134.5
+"Spedden, Mr. Frederic Oakley",Yes,Male,45,Not_Alone,134.5
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Yes,Female,40,Not_Alone,134.5
+"Spencer, Mr. William Augustus",No,Male,57,Not_Alone,146.5208
+"Spencer, Mrs. William Augustus (Marie Eugenie)",Yes,Female,,Not_Alone,146.5208
+"Stahelin-Maeglin, Dr. Max",Yes,Male,32,Alone,30.5
+"Stead, Mr. William Thomas",No,Male,62,Alone,26.55
+"Stengel, Mr. Charles Emil Henry",Yes,Male,54,Not_Alone,55.4417
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Yes,Female,43,Not_Alone,55.4417
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Yes,Female,52,Not_Alone,78.2667
+"Stewart, Mr. Albert A",No,Male,,Alone,27.7208
+"Stone, Mrs. George Nelson (Martha Evelyn)",Yes,Female,62,Alone,80
+"Straus, Mr. Isidor",No,Male,67,Not_Alone,221.7792
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",No,Female,63,Not_Alone,221.7792
+"Sutton, Mr. Frederick",No,Male,61,Alone,32.3208
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Yes,Female,48,Alone,25.9292
+"Taussig, Miss. Ruth",Yes,Female,18,Not_Alone,79.65
+"Taussig, Mr. Emil",No,Male,52,Not_Alone,79.65
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",Yes,Female,39,Not_Alone,79.65
+"Taylor, Mr. Elmer Zebley",Yes,Male,48,Not_Alone,52
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Yes,Female,,Not_Alone,52
+"Thayer, Mr. John Borland",No,Male,49,Not_Alone,110.8833
+"Thayer, Mr. John Borland Jr",Yes,Male,17,Not_Alone,110.8833
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Yes,Female,39,Not_Alone,110.8833
+"Thorne, Mrs. Gertrude Maybelle",Yes,Female,,Alone,79.2
+"Tucker, Mr. Gilbert Milligan Jr",Yes,Male,31,Alone,28.5375
+"Uruchurtu, Don. Manuel E",No,Male,40,Alone,27.7208
+"Van der hoef, Mr. Wyckoff",No,Male,61,Alone,33.5
+"Walker, Mr. William Anderson",No,Male,47,Alone,34.0208
+"Ward, Miss. Anna",Yes,Female,35,Alone,
+"Warren, Mr. Frank Manley",No,Male,64,Not_Alone,75.25
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Yes,Female,60,Not_Alone,75.25
+"Weir, Col. John",No,Male,60,Alone,26.55
+"White, Mr. Percival Wayland",No,Male,54,Not_Alone,77.2875
+"White, Mr. Richard Frasar",No,Male,21,Not_Alone,77.2875
+"White, Mrs. John Stuart (Ella Holmes)",Yes,Female,55,Alone,135.6333
+"Wick, Miss. Mary Natalie",Yes,Female,31,Not_Alone,164.8667
+"Wick, Mr. George Dennick",No,Male,57,Not_Alone,164.8667
+"Wick, Mrs. George Dennick (Mary Hitchcock)",Yes,Female,45,Not_Alone,164.8667
+"Widener, Mr. George Dunton",No,Male,50,Not_Alone,211.5
+"Widener, Mr. Harry Elkins",No,Male,27,Not_Alone,211.5
+"Widener, Mrs. George Dunton (Eleanor Elkins)",Yes,Female,50,Not_Alone,211.5
+"Willard, Miss. Constance",Yes,Female,21,Alone,26.55
+"Williams, Mr. Charles Duane",No,Male,51,Not_Alone,61.3792
+"Williams, Mr. Richard Norris II",Yes,Male,21,Not_Alone,61.3792
+"Williams-Lambert, Mr. Fletcher Fellows",No,Male,,Alone,35
+"Wilson, Miss. Helen Alice",Yes,Female,31,Alone,134.5
+"Woolner, Mr. Hugh",Yes,Male,,Alone,35.5
+"Wright, Mr. George",No,Male,62,Alone,26.55
+"Young, Miss. Marie Grice",Yes,Female,36,Alone,135.6333
+"Abelson, Mr. Samuel",No,Male,30,Not_Alone,24
+"Abelson, Mrs. Samuel (Hannah Wizosky)",Yes,Female,28,Not_Alone,24
+"Aldworth, Mr. Charles Augustus",No,Male,30,Alone,13
+"Andrew, Mr. Edgardo Samuel",No,Male,18,Alone,11.5
+"Andrew, Mr. Frank Thomas",No,Male,25,Alone,10.5
+"Angle, Mr. William A",No,Male,34,Not_Alone,26
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Yes,Female,36,Not_Alone,26
+"Ashby, Mr. John",No,Male,57,Alone,13
+"Bailey, Mr. Percy Andrew",No,Male,18,Alone,11.5
+"Baimbrigge, Mr. Charles Robert",No,Male,23,Alone,10.5
+"Ball, Mrs. (Ada E Hall)",Yes,Female,36,Alone,13
+"Banfield, Mr. Frederick James",No,Male,28,Alone,10.5
+"Bateman, Rev. Robert James",No,Male,51,Alone,12.525
+"Beane, Mr. Edward",Yes,Male,32,Not_Alone,26
+"Beane, Mrs. Edward (Ethel Clarke)",Yes,Female,19,Not_Alone,26
+"Beauchamp, Mr. Henry James",No,Male,28,Alone,26
+"Becker, Master. Richard F",Yes,Male,1,Not_Alone,39
+"Becker, Miss. Marion Louise",Yes,Female,4,Not_Alone,39
+"Becker, Miss. Ruth Elizabeth",Yes,Female,12,Not_Alone,39
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Yes,Female,36,Not_Alone,39
+"Beesley, Mr. Lawrence",Yes,Male,34,Alone,13
+"Bentham, Miss. Lilian W",Yes,Female,19,Alone,13
+"Berriman, Mr. William John",No,Male,23,Alone,13
+"Botsford, Mr. William Hull",No,Male,26,Alone,13
+"Bowenur, Mr. Solomon",No,Male,42,Alone,13
+"Bracken, Mr. James H",No,Male,27,Alone,13
+"Brown, Miss. Amelia ""Mildred""",Yes,Female,24,Alone,13
+"Brown, Miss. Edith Eileen",Yes,Female,15,Not_Alone,39
+"Brown, Mr. Thomas William Solomon",No,Male,60,Not_Alone,39
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Yes,Female,40,Not_Alone,39
+"Bryhl, Miss. Dagmar Jenny Ingeborg",Yes,Female,20,Not_Alone,26
+"Bryhl, Mr. Kurt Arnold Gottfrid",No,Male,25,Not_Alone,26
+"Buss, Miss. Kate",Yes,Female,36,Alone,13
+"Butler, Mr. Reginald Fenton",No,Male,25,Alone,13
+"Byles, Rev. Thomas Roussel Davids",No,Male,42,Alone,13
+"Bystrom, Mrs. (Karolina)",Yes,Female,42,Alone,13
+"Caldwell, Master. Alden Gates",Yes,Male,0,Not_Alone,29
+"Caldwell, Mr. Albert Francis",Yes,Male,26,Not_Alone,29
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Yes,Female,22,Not_Alone,29
+"Cameron, Miss. Clear Annie",Yes,Female,35,Alone,21
+"Campbell, Mr. William",No,Male,,Alone,0
+"Carbines, Mr. William",No,Male,19,Alone,13
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",No,Female,44,Not_Alone,26
+"Carter, Rev. Ernest Courtenay",No,Male,54,Not_Alone,26
+"Chapman, Mr. Charles Henry",No,Male,52,Alone,13.5
+"Chapman, Mr. John Henry",No,Male,37,Not_Alone,26
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",No,Female,29,Not_Alone,26
+"Christy, Miss. Julie Rachel",Yes,Female,25,Not_Alone,30
+"Christy, Mrs. (Alice Frances)",Yes,Female,45,Not_Alone,30
+"Clarke, Mr. Charles Valentine",No,Male,29,Not_Alone,26
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",Yes,Female,28,Not_Alone,26
+"Coleridge, Mr. Reginald Charles",No,Male,29,Alone,10.5
+"Collander, Mr. Erik Gustaf",No,Male,28,Alone,13
+"Collett, Mr. Sidney C Stuart",Yes,Male,24,Alone,10.5
+"Collyer, Miss. Marjorie ""Lottie""",Yes,Female,8,Not_Alone,26.25
+"Collyer, Mr. Harvey",No,Male,31,Not_Alone,26.25
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Yes,Female,31,Not_Alone,26.25
+"Cook, Mrs. (Selena Rogers)",Yes,Female,22,Alone,10.5
+"Corbett, Mrs. Walter H (Irene Colvin)",No,Female,30,Alone,13
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",No,Female,,Alone,21
+"Cotterill, Mr. Henry ""Harry""",No,Male,21,Alone,11.5
+"Cunningham, Mr. Alfred Fleming",No,Male,,Alone,0
+"Davies, Master. John Morgan Jr",Yes,Male,8,Not_Alone,36.75
+"Davies, Mr. Charles Henry",No,Male,18,Alone,73.5
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",Yes,Female,48,Not_Alone,36.75
+"Davis, Miss. Mary",Yes,Female,28,Alone,13
+"de Brito, Mr. Jose Joaquim",No,Male,32,Alone,13
+"Deacon, Mr. Percy William",No,Male,17,Alone,73.5
+"del Carlo, Mr. Sebastiano",No,Male,29,Not_Alone,27.7208
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Yes,Female,24,Not_Alone,27.7208
+"Denbury, Mr. Herbert",No,Male,25,Alone,31.5
+"Dibden, Mr. William",No,Male,18,Alone,73.5
+"Doling, Miss. Elsie",Yes,Female,18,Not_Alone,23
+"Doling, Mrs. John T (Ada Julia Bone)",Yes,Female,34,Not_Alone,23
+"Downton, Mr. William James",No,Male,54,Alone,26
+"Drew, Master. Marshall Brines",Yes,Male,8,Not_Alone,32.5
+"Drew, Mr. James Vivian",No,Male,42,Not_Alone,32.5
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Yes,Female,34,Not_Alone,32.5
+"Duran y More, Miss. Asuncion",Yes,Female,27,Not_Alone,13.8583
+"Duran y More, Miss. Florentina",Yes,Female,30,Not_Alone,13.8583
+"Eitemiller, Mr. George Floyd",No,Male,23,Alone,13
+"Enander, Mr. Ingvar",No,Male,21,Alone,13
+"Fahlstrom, Mr. Arne Jonas",No,Male,18,Alone,13
+"Faunthorpe, Mr. Harry",No,Male,40,Not_Alone,26
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Yes,Female,29,Not_Alone,26
+"Fillbrook, Mr. Joseph Charles",No,Male,18,Alone,10.5
+"Fox, Mr. Stanley Hubert",No,Male,36,Alone,13
+"Frost, Mr. Anthony Wood ""Archie""",No,Male,,Alone,0
+"Funk, Miss. Annie Clemmer",No,Female,38,Alone,13
+"Fynney, Mr. Joseph J",No,Male,35,Alone,26
+"Gale, Mr. Harry",No,Male,38,Not_Alone,21
+"Gale, Mr. Shadrach",No,Male,34,Not_Alone,21
+"Garside, Miss. Ethel",Yes,Female,34,Alone,13
+"Gaskell, Mr. Alfred",No,Male,16,Alone,26
+"Gavey, Mr. Lawrence",No,Male,26,Alone,10.5
+"Gilbert, Mr. William",No,Male,47,Alone,10.5
+"Giles, Mr. Edgar",No,Male,21,Not_Alone,11.5
+"Giles, Mr. Frederick Edward",No,Male,21,Not_Alone,11.5
+"Giles, Mr. Ralph",No,Male,24,Alone,13.5
+"Gill, Mr. John William",No,Male,24,Alone,13
+"Gillespie, Mr. William Henry",No,Male,34,Alone,13
+"Givard, Mr. Hans Kristensen",No,Male,30,Alone,13
+"Greenberg, Mr. Samuel",No,Male,52,Alone,13
+"Hale, Mr. Reginald",No,Male,30,Alone,13
+"Hamalainen, Master. Viljo",Yes,Male,0,Not_Alone,14.5
+"Hamalainen, Mrs. William (Anna)",Yes,Female,24,Not_Alone,14.5
+"Harbeck, Mr. William H",No,Male,44,Alone,13
+"Harper, Miss. Annie Jessie ""Nina""",Yes,Female,6,Not_Alone,33
+"Harper, Rev. John",No,Male,28,Not_Alone,33
+"Harris, Mr. George",Yes,Male,62,Alone,10.5
+"Harris, Mr. Walter",No,Male,30,Alone,10.5
+"Hart, Miss. Eva Miriam",Yes,Female,7,Not_Alone,26.25
+"Hart, Mr. Benjamin",No,Male,43,Not_Alone,26.25
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Yes,Female,45,Not_Alone,26.25
+"Herman, Miss. Alice",Yes,Female,24,Not_Alone,65
+"Herman, Miss. Kate",Yes,Female,24,Not_Alone,65
+"Herman, Mr. Samuel",No,Male,49,Not_Alone,65
+"Herman, Mrs. Samuel (Jane Laver)",Yes,Female,48,Not_Alone,65
+"Hewlett, Mrs. (Mary D Kingcome)",Yes,Female,55,Alone,16
+"Hickman, Mr. Leonard Mark",No,Male,24,Not_Alone,73.5
+"Hickman, Mr. Lewis",No,Male,32,Not_Alone,73.5
+"Hickman, Mr. Stanley George",No,Male,21,Not_Alone,73.5
+"Hiltunen, Miss. Marta",No,Female,18,Not_Alone,13
+"Hocking, Miss. Ellen ""Nellie""",Yes,Female,20,Not_Alone,23
+"Hocking, Mr. Richard George",No,Male,23,Not_Alone,11.5
+"Hocking, Mr. Samuel James Metcalfe",No,Male,36,Alone,13
+"Hocking, Mrs. Elizabeth (Eliza Needs)",Yes,Female,54,Not_Alone,23
+"Hodges, Mr. Henry Price",No,Male,50,Alone,13
+"Hold, Mr. Stephen",No,Male,44,Not_Alone,26
+"Hold, Mrs. Stephen (Annie Margaret Hill)",Yes,Female,29,Not_Alone,26
+"Hood, Mr. Ambrose Jr",No,Male,21,Alone,73.5
+"Hosono, Mr. Masabumi",Yes,Male,42,Alone,13
+"Howard, Mr. Benjamin",No,Male,63,Not_Alone,26
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",No,Female,60,Not_Alone,26
+"Hunt, Mr. George Henry",No,Male,33,Alone,12.275
+"Ilett, Miss. Bertha",Yes,Female,17,Alone,10.5
+"Jacobsohn, Mr. Sidney Samuel",No,Male,42,Not_Alone,27
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Yes,Female,24,Not_Alone,27
+"Jarvis, Mr. John Denzil",No,Male,47,Alone,15
+"Jefferys, Mr. Clifford Thomas",No,Male,24,Not_Alone,31.5
+"Jefferys, Mr. Ernest Wilfred",No,Male,22,Not_Alone,31.5
+"Jenkin, Mr. Stephen Curnow",No,Male,32,Alone,10.5
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Yes,Female,23,Alone,13.7917
+"Kantor, Mr. Sinai",No,Male,34,Not_Alone,26
+"Kantor, Mrs. Sinai (Miriam Sternin)",Yes,Female,24,Not_Alone,26
+"Karnes, Mrs. J Frank (Claire Bennett)",No,Female,22,Alone,21
+"Keane, Miss. Nora A",Yes,Female,,Alone,12.35
+"Keane, Mr. Daniel",No,Male,35,Alone,12.35
+"Kelly, Mrs. Florence ""Fannie""",Yes,Female,45,Alone,13.5
+"Kirkland, Rev. Charles Leonard",No,Male,57,Alone,12.35
+"Knight, Mr. Robert J",No,Male,,Alone,0
+"Kvillner, Mr. Johan Henrik Johannesson",No,Male,31,Alone,10.5
+"Lahtinen, Mrs. William (Anna Sylfven)",No,Female,26,Not_Alone,26
+"Lahtinen, Rev. William",No,Male,30,Not_Alone,26
+"Lamb, Mr. John Joseph",No,Male,,Alone,10.7083
+"Laroche, Miss. Louise",Yes,Female,1,Not_Alone,41.5792
+"Laroche, Miss. Simonne Marie Anne Andree",Yes,Female,3,Not_Alone,41.5792
+"Laroche, Mr. Joseph Philippe Lemercier",No,Male,25,Not_Alone,41.5792
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Yes,Female,22,Not_Alone,41.5792
+"Lehmann, Miss. Bertha",Yes,Female,17,Alone,12
+"Leitch, Miss. Jessie Wills",Yes,Female,,Alone,33
+"Lemore, Mrs. (Amelia Milley)",Yes,Female,34,Alone,10.5
+"Levy, Mr. Rene Jacques",No,Male,36,Alone,12.875
+"Leyson, Mr. Robert William Norman",No,Male,24,Alone,10.5
+"Lingane, Mr. John",No,Male,61,Alone,12.35
+"Louch, Mr. Charles Alexander",No,Male,50,Not_Alone,26
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Yes,Female,42,Not_Alone,26
+"Mack, Mrs. (Mary)",No,Female,57,Alone,10.5
+"Malachard, Mr. Noel",No,Male,,Alone,15.0458
+"Mallet, Master. Andre",Yes,Male,1,Not_Alone,37.0042
+"Mallet, Mr. Albert",No,Male,31,Not_Alone,37.0042
+"Mallet, Mrs. Albert (Antoinette Magnin)",Yes,Female,24,Not_Alone,37.0042
+"Mangiavacchi, Mr. Serafino Emilio",No,Male,,Alone,15.5792
+"Matthews, Mr. William John",No,Male,30,Alone,13
+"Maybery, Mr. Frank Hubert",No,Male,40,Alone,16
+"McCrae, Mr. Arthur Gordon",No,Male,32,Alone,13.5
+"McCrie, Mr. James Matthew",No,Male,30,Alone,13
+"McKane, Mr. Peter David",No,Male,46,Alone,26
+"Mellinger, Miss. Madeleine Violet",Yes,Female,13,Not_Alone,19.5
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",Yes,Female,41,Not_Alone,19.5
+"Mellors, Mr. William John",Yes,Male,19,Alone,10.5
+"Meyer, Mr. August",No,Male,39,Alone,13
+"Milling, Mr. Jacob Christian",No,Male,48,Alone,13
+"Mitchell, Mr. Henry Michael",No,Male,70,Alone,10.5
+"Montvila, Rev. Juozas",No,Male,27,Alone,13
+"Moraweck, Dr. Ernest",No,Male,54,Alone,14
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",No,Male,39,Alone,26
+"Mudd, Mr. Thomas Charles",No,Male,16,Alone,10.5
+"Myles, Mr. Thomas Francis",No,Male,62,Alone,9.6875
+"Nasser, Mr. Nicholas",No,Male,32.5,Not_Alone,30.0708
+"Nasser, Mrs. Nicholas (Adele Achem)",Yes,Female,14,Not_Alone,30.0708
+"Navratil, Master. Edmond Roger",Yes,Male,2,Not_Alone,26
+"Navratil, Master. Michel M",Yes,Male,3,Not_Alone,26
+"Navratil, Mr. Michel (""Louis M Hoffman"")",No,Male,36.5,Not_Alone,26
+"Nesson, Mr. Israel",No,Male,26,Alone,13
+"Nicholls, Mr. Joseph Charles",No,Male,19,Not_Alone,36.75
+"Norman, Mr. Robert Douglas",No,Male,28,Alone,13.5
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",Yes,Male,20,Alone,13.8625
+"Nye, Mrs. (Elizabeth Ramell)",Yes,Female,29,Alone,10.5
+"Otter, Mr. Richard",No,Male,39,Alone,13
+"Oxenham, Mr. Percy Thomas",Yes,Male,22,Alone,10.5
+"Padro y Manent, Mr. Julian",Yes,Male,,Alone,13.8625
+"Pain, Dr. Alfred",No,Male,23,Alone,10.5
+"Pallas y Castello, Mr. Emilio",Yes,Male,29,Alone,13.8583
+"Parker, Mr. Clifford Richard",No,Male,28,Alone,10.5
+"Parkes, Mr. Francis ""Frank""",No,Male,,Alone,0
+"Parrish, Mrs. (Lutie Davis)",Yes,Female,50,Not_Alone,26
+"Pengelly, Mr. Frederick William",No,Male,19,Alone,10.5
+"Pernot, Mr. Rene",No,Male,,Alone,15.05
+"Peruschitz, Rev. Joseph Maria",No,Male,41,Alone,13
+"Phillips, Miss. Alice Frances Louisa",Yes,Female,21,Not_Alone,21
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Yes,Female,19,Alone,26
+"Phillips, Mr. Escott Robert",No,Male,43,Not_Alone,21
+"Pinsky, Mrs. (Rosa)",Yes,Female,32,Alone,13
+"Ponesell, Mr. Martin",No,Male,34,Alone,13
+"Portaluppi, Mr. Emilio Ilario Giuseppe",Yes,Male,30,Alone,12.7375
+"Pulbaum, Mr. Franz",No,Male,27,Alone,15.0333
+"Quick, Miss. Phyllis May",Yes,Female,2,Not_Alone,26
+"Quick, Miss. Winifred Vera",Yes,Female,8,Not_Alone,26
+"Quick, Mrs. Frederick Charles (Jane Richards)",Yes,Female,33,Not_Alone,26
+"Reeves, Mr. David",No,Male,36,Alone,10.5
+"Renouf, Mr. Peter Henry",No,Male,34,Not_Alone,21
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Yes,Female,30,Not_Alone,21
+"Reynaldo, Ms. Encarnacion",Yes,Female,28,Alone,13
+"Richard, Mr. Emile",No,Male,23,Alone,15.0458
+"Richards, Master. George Sibley",Yes,Male,0,Not_Alone,18.75
+"Richards, Master. William Rowe",Yes,Male,3,Not_Alone,18.75
+"Richards, Mrs. Sidney (Emily Hocking)",Yes,Female,24,Not_Alone,18.75
+"Ridsdale, Miss. Lucy",Yes,Female,50,Alone,10.5
+"Rogers, Mr. Reginald Harry",No,Male,19,Alone,10.5
+"Rugg, Miss. Emily",Yes,Female,21,Alone,10.5
+"Schmidt, Mr. August",No,Male,26,Alone,13
+"Sedgwick, Mr. Charles Frederick Waddington",No,Male,25,Alone,13
+"Sharp, Mr. Percival James R",No,Male,27,Alone,26
+"Shelley, Mrs. William (Imanita Parrish Hall)",Yes,Female,25,Not_Alone,26
+"Silven, Miss. Lyyli Karoliina",Yes,Female,18,Not_Alone,13
+"Sincock, Miss. Maude",Yes,Female,20,Alone,36.75
+"Sinkkonen, Miss. Anna",Yes,Female,30,Alone,13
+"Sjostedt, Mr. Ernst Adolf",No,Male,59,Alone,13.5
+"Slayter, Miss. Hilda Mary",Yes,Female,30,Alone,12.35
+"Slemen, Mr. Richard James",No,Male,35,Alone,10.5
+"Smith, Miss. Marion Elsie",Yes,Female,40,Alone,13
+"Sobey, Mr. Samuel James Hayden",No,Male,25,Alone,13
+"Stanton, Mr. Samuel Ward",No,Male,41,Alone,15.0458
+"Stokes, Mr. Philip Joseph",No,Male,25,Alone,10.5
+"Swane, Mr. George",No,Male,18.5,Alone,13
+"Sweet, Mr. George Frederick",No,Male,14,Alone,65
+"Toomey, Miss. Ellen",Yes,Female,50,Alone,10.5
+"Troupiansky, Mr. Moses Aaron",No,Male,23,Alone,13
+"Trout, Mrs. William H (Jessie L)",Yes,Female,28,Alone,12.65
+"Troutt, Miss. Edwina Celia ""Winnie""",Yes,Female,27,Alone,10.5
+"Turpin, Mr. William John Robert",No,Male,29,Not_Alone,21
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",No,Female,27,Not_Alone,21
+"Veal, Mr. James",No,Male,40,Alone,13
+"Walcroft, Miss. Nellie",Yes,Female,31,Alone,21
+"Ware, Mr. John James",No,Male,30,Not_Alone,21
+"Ware, Mr. William Jeffery",No,Male,23,Not_Alone,10.5
+"Ware, Mrs. John James (Florence Louise Long)",Yes,Female,31,Alone,21
+"Watson, Mr. Ennis Hastings",No,Male,,Alone,0
+"Watt, Miss. Bertha J",Yes,Female,12,Alone,15.75
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Yes,Female,40,Alone,15.75
+"Webber, Miss. Susan",Yes,Female,32.5,Alone,13
+"Weisz, Mr. Leopold",No,Male,27,Not_Alone,26
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Yes,Female,29,Not_Alone,26
+"Wells, Master. Ralph Lester",Yes,Male,2,Not_Alone,23
+"Wells, Miss. Joan",Yes,Female,4,Not_Alone,23
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",Yes,Female,29,Not_Alone,23
+"West, Miss. Barbara J",Yes,Female,0,Not_Alone,27.75
+"West, Miss. Constance Mirium",Yes,Female,5,Not_Alone,27.75
+"West, Mr. Edwy Arthur",No,Male,36,Not_Alone,27.75
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",Yes,Female,33,Not_Alone,27.75
+"Wheadon, Mr. Edward H",No,Male,66,Alone,10.5
+"Wheeler, Mr. Edwin ""Frederick""",No,Male,,Alone,12.875
+"Wilhelms, Mr. Charles",Yes,Male,31,Alone,13
+"Williams, Mr. Charles Eugene",Yes,Male,,Alone,13
+"Wright, Miss. Marion",Yes,Female,26,Alone,13.5
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",No,Female,24,Alone,13
+"Abbing, Mr. Anthony",No,Male,42,Alone,7.55
+"Abbott, Master. Eugene Joseph",No,Male,13,Not_Alone,20.25
+"Abbott, Mr. Rossmore Edward",No,Male,16,Not_Alone,20.25
+"Abbott, Mrs. Stanton (Rosa Hunt)",Yes,Female,35,Not_Alone,20.25
+"Abelseth, Miss. Karen Marie",Yes,Female,16,Alone,7.65
+"Abelseth, Mr. Olaus Jorgensen",Yes,Male,25,Alone,7.65
+"Abrahamsson, Mr. Abraham August Johannes",Yes,Male,20,Alone,7.925
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Yes,Female,18,Alone,7.2292
+"Adahl, Mr. Mauritz Nils Martin",No,Male,30,Alone,7.25
+"Adams, Mr. John",No,Male,26,Alone,8.05
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",No,Female,40,Not_Alone,9.475
+"Aks, Master. Philip Frank",Yes,Male,0,Not_Alone,9.35
+"Aks, Mrs. Sam (Leah Rosen)",Yes,Female,18,Not_Alone,9.35
+"Albimona, Mr. Nassef Cassem",Yes,Male,26,Alone,18.7875
+"Alexander, Mr. William",No,Male,26,Alone,7.8875
+"Alhomaki, Mr. Ilmari Rudolf",No,Male,20,Alone,7.925
+"Ali, Mr. Ahmed",No,Male,24,Alone,7.05
+"Ali, Mr. William",No,Male,25,Alone,7.05
+"Allen, Mr. William Henry",No,Male,35,Alone,8.05
+"Allum, Mr. Owen George",No,Male,18,Alone,8.3
+"Andersen, Mr. Albert Karvin",No,Male,32,Alone,22.525
+"Andersen-Jensen, Miss. Carla Christine Nielsine",Yes,Female,19,Not_Alone,7.8542
+"Andersson, Master. Sigvard Harald Elias",No,Male,4,Not_Alone,31.275
+"Andersson, Miss. Ebba Iris Alfrida",No,Female,6,Not_Alone,31.275
+"Andersson, Miss. Ellis Anna Maria",No,Female,2,Not_Alone,31.275
+"Andersson, Miss. Erna Alexandra",Yes,Female,17,Not_Alone,7.925
+"Andersson, Miss. Ida Augusta Margareta",No,Female,38,Not_Alone,7.775
+"Andersson, Miss. Ingeborg Constanzia",No,Female,9,Not_Alone,31.275
+"Andersson, Miss. Sigrid Elisabeth",No,Female,11,Not_Alone,31.275
+"Andersson, Mr. Anders Johan",No,Male,39,Not_Alone,31.275
+"Andersson, Mr. August Edvard (""Wennerstrom"")",Yes,Male,27,Alone,7.7958
+"Andersson, Mr. Johan Samuel",No,Male,26,Alone,7.775
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",No,Female,39,Not_Alone,31.275
+"Andreasson, Mr. Paul Edvin",No,Male,20,Alone,7.8542
+"Angheloff, Mr. Minko",No,Male,26,Alone,7.8958
+"Arnold-Franchi, Mr. Josef",No,Male,25,Not_Alone,17.8
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",No,Female,18,Not_Alone,17.8
+"Aronsson, Mr. Ernst Axel Algot",No,Male,24,Alone,7.775
+"Asim, Mr. Adola",No,Male,35,Alone,7.05
+"Asplund, Master. Carl Edgar",No,Male,5,Not_Alone,31.3875
+"Asplund, Master. Clarence Gustaf Hugo",No,Male,9,Not_Alone,31.3875
+"Asplund, Master. Edvin Rojj Felix",Yes,Male,3,Not_Alone,31.3875
+"Asplund, Master. Filip Oscar",No,Male,13,Not_Alone,31.3875
+"Asplund, Miss. Lillian Gertrud",Yes,Female,5,Not_Alone,31.3875
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",No,Male,40,Not_Alone,31.3875
+"Asplund, Mr. Johan Charles",Yes,Male,23,Alone,7.7958
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Yes,Female,38,Not_Alone,31.3875
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",Yes,Female,45,Alone,7.225
+"Assaf, Mr. Gerios",No,Male,21,Alone,7.225
+"Assam, Mr. Ali",No,Male,23,Alone,7.05
+"Attalah, Miss. Malake",No,Female,17,Alone,14.4583
+"Attalah, Mr. Sleiman",No,Male,30,Alone,7.225
+"Augustsson, Mr. Albert",No,Male,23,Alone,7.8542
+"Ayoub, Miss. Banoura",Yes,Female,13,Alone,7.2292
+"Baccos, Mr. Raffull",No,Male,20,Alone,7.225
+"Backstrom, Mr. Karl Alfred",No,Male,32,Not_Alone,15.85
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Yes,Female,33,Not_Alone,15.85
+"Baclini, Miss. Eugenie",Yes,Female,0,Not_Alone,19.2583
+"Baclini, Miss. Helene Barbara",Yes,Female,0,Not_Alone,19.2583
+"Baclini, Miss. Marie Catherine",Yes,Female,5,Not_Alone,19.2583
+"Baclini, Mrs. Solomon (Latifa Qurban)",Yes,Female,24,Not_Alone,19.2583
+"Badman, Miss. Emily Louisa",Yes,Female,18,Alone,8.05
+"Badt, Mr. Mohamed",No,Male,40,Alone,7.225
+"Balkic, Mr. Cerin",No,Male,26,Alone,7.8958
+"Barah, Mr. Hanna Assi",Yes,Male,20,Alone,7.2292
+"Barbara, Miss. Saiide",No,Female,18,Not_Alone,14.4542
+"Barbara, Mrs. (Catherine David)",No,Female,45,Not_Alone,14.4542
+"Barry, Miss. Julia",No,Female,27,Alone,7.8792
+"Barton, Mr. David John",No,Male,22,Alone,8.05
+"Beavan, Mr. William Thomas",No,Male,19,Alone,8.05
+"Bengtsson, Mr. John Viktor",No,Male,26,Alone,7.775
+"Berglund, Mr. Karl Ivar Sven",No,Male,22,Alone,9.35
+"Betros, Master. Seman",No,Male,,Alone,7.2292
+"Betros, Mr. Tannous",No,Male,20,Alone,4.0125
+"Bing, Mr. Lee",Yes,Male,32,Alone,56.4958
+"Birkeland, Mr. Hans Martin Monsen",No,Male,21,Alone,7.775
+"Bjorklund, Mr. Ernst Herbert",No,Male,18,Alone,7.75
+"Bostandyeff, Mr. Guentcho",No,Male,26,Alone,7.8958
+"Boulos, Master. Akar",No,Male,6,Not_Alone,15.2458
+"Boulos, Miss. Nourelain",No,Female,9,Not_Alone,15.2458
+"Boulos, Mr. Hanna",No,Male,,Alone,7.225
+"Boulos, Mrs. Joseph (Sultana)",No,Female,,Not_Alone,15.2458
+"Bourke, Miss. Mary",No,Female,,Not_Alone,7.75
+"Bourke, Mr. John",No,Male,40,Not_Alone,15.5
+"Bourke, Mrs. John (Catherine)",No,Female,32,Not_Alone,15.5
+"Bowen, Mr. David John ""Dai""",No,Male,21,Alone,16.1
+"Bradley, Miss. Bridget Delia",Yes,Female,22,Alone,7.725
+"Braf, Miss. Elin Ester Maria",No,Female,20,Alone,7.8542
+"Braund, Mr. Lewis Richard",No,Male,29,Not_Alone,7.0458
+"Braund, Mr. Owen Harris",No,Male,22,Not_Alone,7.25
+"Brobeck, Mr. Karl Rudolf",No,Male,22,Alone,7.7958
+"Brocklebank, Mr. William Alfred",No,Male,35,Alone,8.05
+"Buckley, Miss. Katherine",No,Female,18.5,Alone,7.2833
+"Buckley, Mr. Daniel",Yes,Male,21,Alone,7.8208
+"Burke, Mr. Jeremiah",No,Male,19,Alone,6.75
+"Burns, Miss. Mary Delia",No,Female,18,Alone,7.8792
+"Cacic, Miss. Manda",No,Female,21,Alone,8.6625
+"Cacic, Miss. Marija",No,Female,30,Alone,8.6625
+"Cacic, Mr. Jego Grga",No,Male,18,Alone,8.6625
+"Cacic, Mr. Luka",No,Male,38,Alone,8.6625
+"Calic, Mr. Jovo",No,Male,17,Alone,8.6625
+"Calic, Mr. Petar",No,Male,17,Alone,8.6625
+"Canavan, Miss. Mary",No,Female,21,Alone,7.75
+"Canavan, Mr. Patrick",No,Male,21,Alone,7.75
+"Cann, Mr. Ernest Charles",No,Male,21,Alone,8.05
+"Caram, Mr. Joseph",No,Male,,Not_Alone,14.4583
+"Caram, Mrs. Joseph (Maria Elias)",No,Female,,Not_Alone,14.4583
+"Carlsson, Mr. August Sigfrid",No,Male,28,Alone,7.7958
+"Carlsson, Mr. Carl Robert",No,Male,24,Alone,7.8542
+"Carr, Miss. Helen ""Ellen""",Yes,Female,16,Alone,7.75
+"Carr, Miss. Jeannie",No,Female,37,Alone,7.75
+"Carver, Mr. Alfred John",No,Male,28,Alone,7.25
+"Celotti, Mr. Francesco",No,Male,24,Alone,8.05
+"Charters, Mr. David",No,Male,21,Alone,7.7333
+"Chip, Mr. Chang",Yes,Male,32,Alone,56.4958
+"Christmann, Mr. Emil",No,Male,29,Alone,8.05
+"Chronopoulos, Mr. Apostolos",No,Male,26,Not_Alone,14.4542
+"Chronopoulos, Mr. Demetrios",No,Male,18,Not_Alone,14.4542
+"Coelho, Mr. Domingos Fernandeo",No,Male,20,Alone,7.05
+"Cohen, Mr. Gurshon ""Gus""",Yes,Male,18,Alone,8.05
+"Colbert, Mr. Patrick",No,Male,24,Alone,7.25
+"Coleff, Mr. Peju",No,Male,36,Alone,7.4958
+"Coleff, Mr. Satio",No,Male,24,Alone,7.4958
+"Conlon, Mr. Thomas Henry",No,Male,31,Alone,7.7333
+"Connaghton, Mr. Michael",No,Male,31,Alone,7.75
+"Connolly, Miss. Kate",Yes,Female,22,Alone,7.75
+"Connolly, Miss. Kate",No,Female,30,Alone,7.6292
+"Connors, Mr. Patrick",No,Male,70.5,Alone,7.75
+"Cook, Mr. Jacob",No,Male,43,Alone,8.05
+"Cor, Mr. Bartol",No,Male,35,Alone,7.8958
+"Cor, Mr. Ivan",No,Male,27,Alone,7.8958
+"Cor, Mr. Liudevit",No,Male,19,Alone,7.8958
+"Corn, Mr. Harry",No,Male,30,Alone,8.05
+"Coutts, Master. Eden Leslie ""Neville""",Yes,Male,9,Not_Alone,15.9
+"Coutts, Master. William Loch ""William""",Yes,Male,3,Not_Alone,15.9
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",Yes,Female,36,Not_Alone,15.9
+"Coxon, Mr. Daniel",No,Male,59,Alone,7.25
+"Crease, Mr. Ernest James",No,Male,19,Alone,8.1583
+"Cribb, Miss. Laura Alice",Yes,Female,17,Not_Alone,16.1
+"Cribb, Mr. John Hatfield",No,Male,44,Not_Alone,16.1
+"Culumovic, Mr. Jeso",No,Male,17,Alone,8.6625
+"Daher, Mr. Shedid",No,Male,22.5,Alone,7.225
+"Dahl, Mr. Karl Edwart",Yes,Male,45,Alone,8.05
+"Dahlberg, Miss. Gerda Ulrika",No,Female,22,Alone,10.5167
+"Dakic, Mr. Branko",No,Male,19,Alone,10.1708
+"Daly, Miss. Margaret Marcella ""Maggie""",Yes,Female,30,Alone,6.95
+"Daly, Mr. Eugene Patrick",Yes,Male,29,Alone,7.75
+"Danbom, Master. Gilbert Sigvard Emanuel",No,Male,0,Not_Alone,14.4
+"Danbom, Mr. Ernst Gilbert",No,Male,34,Not_Alone,14.4
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",No,Female,28,Not_Alone,14.4
+"Danoff, Mr. Yoto",No,Male,27,Alone,7.8958
+"Dantcheff, Mr. Ristiu",No,Male,25,Alone,7.8958
+"Davies, Mr. Alfred J",No,Male,24,Not_Alone,24.15
+"Davies, Mr. Evan",No,Male,22,Alone,8.05
+"Davies, Mr. John Samuel",No,Male,21,Not_Alone,24.15
+"Davies, Mr. Joseph",No,Male,17,Not_Alone,8.05
+"Davison, Mr. Thomas Henry",No,Male,,Not_Alone,16.1
+"Davison, Mrs. Thomas Henry (Mary E Finck)",Yes,Female,,Not_Alone,16.1
+"de Messemaeker, Mr. Guillaume Joseph",Yes,Male,36.5,Not_Alone,17.4
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Yes,Female,36,Not_Alone,17.4
+"de Mulder, Mr. Theodore",Yes,Male,30,Alone,9.5
+"de Pelsmaeker, Mr. Alfons",No,Male,16,Alone,9.5
+"Dean, Master. Bertram Vere",Yes,Male,1,Not_Alone,20.575
+"Dean, Miss. Elizabeth Gladys ""Millvina""",Yes,Female,0,Not_Alone,20.575
+"Dean, Mr. Bertram Frank",No,Male,26,Not_Alone,20.575
+"Dean, Mrs. Bertram (Eva Georgetta Light)",Yes,Female,33,Not_Alone,20.575
+"Delalic, Mr. Redjo",No,Male,25,Alone,7.8958
+"Demetri, Mr. Marinko",No,Male,,Alone,7.8958
+"Denkoff, Mr. Mitto",No,Male,,Alone,7.8958
+"Dennis, Mr. Samuel",No,Male,22,Alone,7.25
+"Dennis, Mr. William",No,Male,36,Alone,7.25
+"Devaney, Miss. Margaret Delia",Yes,Female,19,Alone,7.8792
+"Dika, Mr. Mirko",No,Male,17,Alone,7.8958
+"Dimic, Mr. Jovan",No,Male,42,Alone,8.6625
+"Dintcheff, Mr. Valtcho",No,Male,43,Alone,7.8958
+"Doharr, Mr. Tannous",No,Male,,Alone,7.2292
+"Dooley, Mr. Patrick",No,Male,32,Alone,7.75
+"Dorking, Mr. Edward Arthur",Yes,Male,19,Alone,8.05
+"Dowdell, Miss. Elizabeth",Yes,Female,30,Alone,12.475
+"Doyle, Miss. Elizabeth",No,Female,24,Alone,7.75
+"Drapkin, Miss. Jennie",Yes,Female,23,Alone,8.05
+"Drazenoic, Mr. Jozef",No,Male,33,Alone,7.8958
+"Duane, Mr. Frank",No,Male,65,Alone,7.75
+"Duquemin, Mr. Joseph",Yes,Male,24,Alone,7.55
+"Dyker, Mr. Adolf Fredrik",No,Male,23,Not_Alone,13.9
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Yes,Female,22,Not_Alone,13.9
+"Edvardsson, Mr. Gustaf Hjalmar",No,Male,18,Alone,7.775
+"Eklund, Mr. Hans Linus",No,Male,16,Alone,7.775
+"Ekstrom, Mr. Johan",No,Male,45,Alone,6.975
+"Elias, Mr. Dibo",No,Male,,Alone,7.225
+"Elias, Mr. Joseph",No,Male,39,Not_Alone,7.2292
+"Elias, Mr. Joseph Jr",No,Male,17,Not_Alone,7.2292
+"Elias, Mr. Tannous",No,Male,15,Not_Alone,7.2292
+"Elsbury, Mr. William James",No,Male,47,Alone,7.25
+"Emanuel, Miss. Virginia Ethel",Yes,Female,5,Alone,12.475
+"Emir, Mr. Farred Chehab",No,Male,,Alone,7.225
+"Everett, Mr. Thomas James",No,Male,40.5,Alone,15.1
+"Farrell, Mr. James",No,Male,40.5,Alone,7.75
+"Finoli, Mr. Luigi",Yes,Male,,Alone,7.05
+"Fischer, Mr. Eberhard Thelander",No,Male,18,Alone,7.7958
+"Fleming, Miss. Honora",No,Female,,Alone,7.75
+"Flynn, Mr. James",No,Male,,Alone,7.75
+"Flynn, Mr. John",No,Male,,Alone,6.95
+"Foley, Mr. Joseph",No,Male,26,Alone,7.8792
+"Foley, Mr. William",No,Male,,Alone,7.75
+"Foo, Mr. Choong",Yes,Male,,Alone,56.4958
+"Ford, Miss. Doolina Margaret ""Daisy""",No,Female,21,Not_Alone,34.375
+"Ford, Miss. Robina Maggie ""Ruby""",No,Female,9,Not_Alone,34.375
+"Ford, Mr. Arthur",No,Male,,Alone,8.05
+"Ford, Mr. Edward Watson",No,Male,18,Not_Alone,34.375
+"Ford, Mr. William Neal",No,Male,16,Not_Alone,34.375
+"Ford, Mrs. Edward (Margaret Ann Watson)",No,Female,48,Not_Alone,34.375
+"Fox, Mr. Patrick",No,Male,,Alone,7.75
+"Franklin, Mr. Charles (Charles Fardon)",No,Male,,Alone,7.25
+"Gallagher, Mr. Martin",No,Male,25,Alone,7.7417
+"Garfirth, Mr. John",No,Male,,Alone,14.5
+"Gheorgheff, Mr. Stanio",No,Male,,Alone,7.8958
+"Gilinski, Mr. Eliezer",No,Male,22,Alone,8.05
+"Gilnagh, Miss. Katherine ""Katie""",Yes,Female,16,Alone,7.7333
+"Glynn, Miss. Mary Agatha",Yes,Female,,Alone,7.75
+"Goldsmith, Master. Frank John William ""Frankie""",Yes,Male,9,Not_Alone,20.525
+"Goldsmith, Mr. Frank John",No,Male,33,Not_Alone,20.525
+"Goldsmith, Mr. Nathan",No,Male,41,Alone,7.85
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Yes,Female,31,Not_Alone,20.525
+"Goncalves, Mr. Manuel Estanslas",No,Male,38,Alone,7.05
+"Goodwin, Master. Harold Victor",No,Male,9,Not_Alone,46.9
+"Goodwin, Master. Sidney Leonard",No,Male,1,Not_Alone,46.9
+"Goodwin, Master. William Frederick",No,Male,11,Not_Alone,46.9
+"Goodwin, Miss. Jessie Allis",No,Female,10,Not_Alone,46.9
+"Goodwin, Miss. Lillian Amy",No,Female,16,Not_Alone,46.9
+"Goodwin, Mr. Charles Edward",No,Male,14,Not_Alone,46.9
+"Goodwin, Mr. Charles Frederick",No,Male,40,Not_Alone,46.9
+"Goodwin, Mrs. Frederick (Augusta Tyler)",No,Female,43,Not_Alone,46.9
+"Green, Mr. George Henry",No,Male,51,Alone,8.05
+"Gronnestad, Mr. Daniel Danielsen",No,Male,32,Alone,8.3625
+"Guest, Mr. Robert",No,Male,,Alone,8.05
+"Gustafsson, Mr. Alfred Ossian",No,Male,20,Alone,9.8458
+"Gustafsson, Mr. Anders Vilhelm",No,Male,37,Not_Alone,7.925
+"Gustafsson, Mr. Johan Birger",No,Male,28,Not_Alone,7.925
+"Gustafsson, Mr. Karl Gideon",No,Male,19,Alone,7.775
+"Haas, Miss. Aloisia",No,Female,24,Alone,8.85
+"Hagardon, Miss. Kate",No,Female,17,Alone,7.7333
+"Hagland, Mr. Ingvald Olai Olsen",No,Male,,Not_Alone,19.9667
+"Hagland, Mr. Konrad Mathias Reiersen",No,Male,,Not_Alone,19.9667
+"Hakkarainen, Mr. Pekka Pietari",No,Male,28,Not_Alone,15.85
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Yes,Female,24,Not_Alone,15.85
+"Hampe, Mr. Leon",No,Male,20,Alone,9.5
+"Hanna, Mr. Mansour",No,Male,23.5,Alone,7.2292
+"Hansen, Mr. Claus Peter",No,Male,41,Not_Alone,14.1083
+"Hansen, Mr. Henrik Juul",No,Male,26,Not_Alone,7.8542
+"Hansen, Mr. Henry Damsgaard",No,Male,21,Alone,7.8542
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",Yes,Female,45,Not_Alone,14.1083
+"Harknett, Miss. Alice Phoebe",No,Female,,Alone,7.55
+"Harmer, Mr. Abraham (David Lishin)",No,Male,25,Alone,7.25
+"Hart, Mr. Henry",No,Male,,Alone,6.8583
+"Hassan, Mr. Houssein G N",No,Male,11,Alone,18.7875
+"Healy, Miss. Hanora ""Nora""",Yes,Female,,Alone,7.75
+"Hedman, Mr. Oskar Arvid",Yes,Male,27,Alone,6.975
+"Hee, Mr. Ling",Yes,Male,,Alone,56.4958
+"Hegarty, Miss. Hanora ""Nora""",No,Female,18,Alone,6.75
+"Heikkinen, Miss. Laina",Yes,Female,26,Alone,7.925
+"Heininen, Miss. Wendla Maria",No,Female,23,Alone,7.925
+"Hellstrom, Miss. Hilda Maria",Yes,Female,22,Alone,8.9625
+"Hendekovic, Mr. Ignjac",No,Male,28,Alone,7.8958
+"Henriksson, Miss. Jenny Lovisa",No,Female,28,Alone,7.775
+"Henry, Miss. Delia",No,Female,,Alone,7.75
+"Hirvonen, Miss. Hildur E",Yes,Female,2,Not_Alone,12.2875
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Yes,Female,22,Not_Alone,12.2875
+"Holm, Mr. John Fredrik Alexander",No,Male,43,Alone,6.45
+"Holthen, Mr. Johan Martin",No,Male,28,Alone,22.525
+"Honkanen, Miss. Eliina",Yes,Female,27,Alone,7.925
+"Horgan, Mr. John",No,Male,,Alone,7.75
+"Howard, Miss. May Elizabeth",Yes,Female,,Alone,8.05
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",No,Male,42,Alone,7.65
+"Hyman, Mr. Abraham",Yes,Male,,Alone,7.8875
+"Ibrahim Shawah, Mr. Yousseff",No,Male,30,Alone,7.2292
+"Ilieff, Mr. Ylio",No,Male,,Alone,7.8958
+"Ilmakangas, Miss. Ida Livija",No,Female,27,Not_Alone,7.925
+"Ilmakangas, Miss. Pieta Sofia",No,Female,25,Not_Alone,7.925
+"Ivanoff, Mr. Kanio",No,Male,,Alone,7.8958
+"Jalsevac, Mr. Ivan",Yes,Male,29,Alone,7.8958
+"Jansson, Mr. Carl Olof",Yes,Male,21,Alone,7.7958
+"Jardin, Mr. Jose Neto",No,Male,,Alone,7.05
+"Jensen, Mr. Hans Peder",No,Male,20,Alone,7.8542
+"Jensen, Mr. Niels Peder",No,Male,48,Alone,7.8542
+"Jensen, Mr. Svend Lauritz",No,Male,17,Not_Alone,7.0542
+"Jermyn, Miss. Annie",Yes,Female,,Alone,7.75
+"Johannesen-Bratthammer, Mr. Bernt",Yes,Male,,Alone,8.1125
+"Johanson, Mr. Jakob Alfred",No,Male,34,Alone,6.4958
+"Johansson Palmquist, Mr. Oskar Leander",Yes,Male,26,Alone,7.775
+"Johansson, Mr. Erik",No,Male,22,Alone,7.7958
+"Johansson, Mr. Gustaf Joel",No,Male,33,Alone,8.6542
+"Johansson, Mr. Karl Johan",No,Male,31,Alone,7.775
+"Johansson, Mr. Nils",No,Male,29,Alone,7.8542
+"Johnson, Master. Harold Theodor",Yes,Male,4,Not_Alone,11.1333
+"Johnson, Miss. Eleanor Ileen",Yes,Female,1,Not_Alone,11.1333
+"Johnson, Mr. Alfred",No,Male,49,Alone,0
+"Johnson, Mr. Malkolm Joackim",No,Male,33,Alone,7.775
+"Johnson, Mr. William Cahoone Jr",No,Male,19,Alone,0
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Yes,Female,27,Not_Alone,11.1333
+"Johnston, Master. William Arthur ""Willie""",No,Male,,Not_Alone,23.45
+"Johnston, Miss. Catherine Helen ""Carrie""",No,Female,,Not_Alone,23.45
+"Johnston, Mr. Andrew G",No,Male,,Not_Alone,23.45
+"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",No,Female,,Not_Alone,23.45
+"Jonkoff, Mr. Lalio",No,Male,23,Alone,7.8958
+"Jonsson, Mr. Carl",Yes,Male,32,Alone,7.8542
+"Jonsson, Mr. Nils Hilding",No,Male,27,Alone,7.8542
+"Jussila, Miss. Katriina",No,Female,20,Not_Alone,9.825
+"Jussila, Miss. Mari Aina",No,Female,21,Not_Alone,9.825
+"Jussila, Mr. Eiriik",Yes,Male,32,Alone,7.925
+"Kallio, Mr. Nikolai Erland",No,Male,17,Alone,7.125
+"Kalvik, Mr. Johannes Halvorsen",No,Male,21,Alone,8.4333
+"Karaic, Mr. Milan",No,Male,30,Alone,7.8958
+"Karlsson, Mr. Einar Gervasius",Yes,Male,21,Alone,7.7958
+"Karlsson, Mr. Julius Konrad Eugen",No,Male,33,Alone,7.8542
+"Karlsson, Mr. Nils August",No,Male,22,Alone,7.5208
+"Karun, Miss. Manca",Yes,Female,4,Not_Alone,13.4167
+"Karun, Mr. Franz",Yes,Male,39,Not_Alone,13.4167
+"Kassem, Mr. Fared",No,Male,,Alone,7.2292
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",No,Male,18.5,Alone,7.2292
+"Keane, Mr. Andrew ""Andy""",No,Male,,Alone,7.75
+"Keefe, Mr. Arthur",No,Male,,Alone,7.25
+"Kelly, Miss. Anna Katherine ""Annie Kate""",Yes,Female,,Alone,7.75
+"Kelly, Miss. Mary",Yes,Female,,Alone,7.75
+"Kelly, Mr. James",No,Male,34.5,Alone,7.8292
+"Kelly, Mr. James",No,Male,44,Alone,8.05
+"Kennedy, Mr. John",Yes,Male,,Alone,7.75
+"Khalil, Mr. Betros",No,Male,,Not_Alone,14.4542
+"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",No,Female,,Not_Alone,14.4542
+"Kiernan, Mr. John",No,Male,,Not_Alone,7.75
+"Kiernan, Mr. Philip",No,Male,,Not_Alone,7.75
+"Kilgannon, Mr. Thomas J",No,Male,,Alone,7.7375
+"Kink, Miss. Maria",No,Female,22,Not_Alone,8.6625
+"Kink, Mr. Vincenz",No,Male,26,Not_Alone,8.6625
+"Kink-Heilmann, Miss. Luise Gretchen",Yes,Female,4,Not_Alone,22.025
+"Kink-Heilmann, Mr. Anton",Yes,Male,29,Not_Alone,22.025
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",Yes,Female,26,Not_Alone,22.025
+"Klasen, Miss. Gertrud Emilia",No,Female,1,Not_Alone,12.1833
+"Klasen, Mr. Klas Albin",No,Male,18,Not_Alone,7.8542
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",No,Female,36,Not_Alone,12.1833
+"Kraeff, Mr. Theodor",No,Male,,Alone,7.8958
+"Krekorian, Mr. Neshan",Yes,Male,25,Alone,7.2292
+"Lahoud, Mr. Sarkis",No,Male,,Alone,7.225
+"Laitinen, Miss. Kristina Sofia",No,Female,37,Alone,9.5875
+"Laleff, Mr. Kristo",No,Male,,Alone,7.8958
+"Lam, Mr. Ali",Yes,Male,,Alone,56.4958
+"Lam, Mr. Len",No,Male,,Alone,56.4958
+"Landergren, Miss. Aurora Adelia",Yes,Female,22,Alone,7.25
+"Lane, Mr. Patrick",No,Male,,Alone,7.75
+"Lang, Mr. Fang",Yes,Male,26,Alone,56.4958
+"Larsson, Mr. August Viktor",No,Male,29,Alone,9.4833
+"Larsson, Mr. Bengt Edvin",No,Male,29,Alone,7.775
+"Larsson-Rondberg, Mr. Edvard A",No,Male,22,Alone,7.775
+"Leeni, Mr. Fahim (""Philip Zenni"")",Yes,Male,22,Alone,7.225
+"Lefebre, Master. Henry Forbes",No,Male,,Not_Alone,25.4667
+"Lefebre, Miss. Ida",No,Female,,Not_Alone,25.4667
+"Lefebre, Miss. Jeannie",No,Female,,Not_Alone,25.4667
+"Lefebre, Miss. Mathilde",No,Female,,Not_Alone,25.4667
+"Lefebre, Mrs. Frank (Frances)",No,Female,,Not_Alone,25.4667
+"Leinonen, Mr. Antti Gustaf",No,Male,32,Alone,7.925
+"Lemberopolous, Mr. Peter L",No,Male,34.5,Alone,6.4375
+"Lennon, Miss. Mary",No,Female,,Not_Alone,15.5
+"Lennon, Mr. Denis",No,Male,,Not_Alone,15.5
+"Leonard, Mr. Lionel",No,Male,36,Alone,0
+"Lester, Mr. James",No,Male,39,Alone,24.15
+"Lievens, Mr. Rene Aime",No,Male,24,Alone,9.5
+"Lindahl, Miss. Agda Thorilda Viktoria",No,Female,25,Alone,7.775
+"Lindblom, Miss. Augusta Charlotta",No,Female,45,Alone,7.75
+"Lindell, Mr. Edvard Bengtsson",No,Male,36,Not_Alone,15.55
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",No,Female,30,Not_Alone,15.55
+"Lindqvist, Mr. Eino William",Yes,Male,20,Not_Alone,7.925
+"Linehan, Mr. Michael",No,Male,,Alone,7.8792
+"Ling, Mr. Lee",No,Male,28,Alone,56.4958
+"Lithman, Mr. Simon",No,Male,,Alone,7.55
+"Lobb, Mr. William Arthur",No,Male,30,Not_Alone,16.1
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",No,Female,26,Not_Alone,16.1
+"Lockyer, Mr. Edward",No,Male,,Alone,7.8792
+"Lovell, Mr. John Hall (""Henry"")",No,Male,20.5,Alone,7.25
+"Lulic, Mr. Nikola",Yes,Male,27,Alone,8.6625
+"Lundahl, Mr. Johan Svensson",No,Male,51,Alone,7.0542
+"Lundin, Miss. Olga Elida",Yes,Female,23,Alone,7.8542
+"Lundstrom, Mr. Thure Edvin",Yes,Male,32,Alone,7.5792
+"Lyntakoff, Mr. Stanko",No,Male,,Alone,7.8958
+"MacKay, Mr. George William",No,Male,,Alone,7.55
+"Madigan, Miss. Margaret ""Maggie""",Yes,Female,,Alone,7.75
+"Madsen, Mr. Fridtjof Arne",Yes,Male,24,Alone,7.1417
+"Maenpaa, Mr. Matti Alexanteri",No,Male,22,Alone,7.125
+"Mahon, Miss. Bridget Delia",No,Female,,Alone,7.8792
+"Mahon, Mr. John",No,Male,,Alone,7.75
+"Maisner, Mr. Simon",No,Male,,Alone,8.05
+"Makinen, Mr. Kalle Edvard",No,Male,29,Alone,7.925
+"Mamee, Mr. Hanna",Yes,Male,,Alone,7.2292
+"Mangan, Miss. Mary",No,Female,30.5,Alone,7.75
+"Mannion, Miss. Margareth",Yes,Female,,Alone,7.7375
+"Mardirosian, Mr. Sarkis",No,Male,,Alone,7.2292
+"Markoff, Mr. Marin",No,Male,35,Alone,7.8958
+"Markun, Mr. Johann",No,Male,33,Alone,7.8958
+"Masselmani, Mrs. Fatima",Yes,Female,,Alone,7.225
+"Matinoff, Mr. Nicola",No,Male,,Alone,7.8958
+"McCarthy, Miss. Catherine ""Katie""",Yes,Female,,Alone,7.75
+"McCormack, Mr. Thomas Joseph",Yes,Male,,Alone,7.75
+"McCoy, Miss. Agnes",Yes,Female,,Not_Alone,23.25
+"McCoy, Miss. Alicia",Yes,Female,,Not_Alone,23.25
+"McCoy, Mr. Bernard",Yes,Male,,Not_Alone,23.25
+"McDermott, Miss. Brigdet Delia",Yes,Female,,Alone,7.7875
+"McEvoy, Mr. Michael",No,Male,,Alone,15.5
+"McGovern, Miss. Mary",Yes,Female,,Alone,7.8792
+"McGowan, Miss. Anna ""Annie""",Yes,Female,15,Alone,8.0292
+"McGowan, Miss. Katherine",No,Female,35,Alone,7.75
+"McMahon, Mr. Martin",No,Male,,Alone,7.75
+"McNamee, Mr. Neal",No,Male,24,Not_Alone,16.1
+"McNamee, Mrs. Neal (Eileen O'Leary)",No,Female,19,Not_Alone,16.1
+"McNeill, Miss. Bridget",No,Female,,Alone,7.75
+"Meanwell, Miss. (Marion Ogden)",No,Female,,Alone,8.05
+"Meek, Mrs. Thomas (Annie Louise Rowley)",No,Female,,Alone,8.05
+"Meo, Mr. Alfonzo",No,Male,55.5,Alone,8.05
+"Mernagh, Mr. Robert",No,Male,,Alone,7.75
+"Midtsjo, Mr. Karl Albert",Yes,Male,21,Alone,7.775
+"Miles, Mr. Frank",No,Male,,Alone,8.05
+"Mineff, Mr. Ivan",No,Male,24,Alone,7.8958
+"Minkoff, Mr. Lazar",No,Male,21,Alone,7.8958
+"Mionoff, Mr. Stoytcho",No,Male,28,Alone,7.8958
+"Mitkoff, Mr. Mito",No,Male,,Alone,7.8958
+"Mockler, Miss. Helen Mary ""Ellie""",Yes,Female,,Alone,7.8792
+"Moen, Mr. Sigurd Hansen",No,Male,25,Alone,7.65
+"Moor, Master. Meier",Yes,Male,6,Not_Alone,12.475
+"Moor, Mrs. (Beila)",Yes,Female,27,Not_Alone,12.475
+"Moore, Mr. Leonard Charles",No,Male,,Alone,8.05
+"Moran, Miss. Bertha",Yes,Female,,Not_Alone,24.15
+"Moran, Mr. Daniel J",No,Male,,Not_Alone,24.15
+"Moran, Mr. James",No,Male,,Alone,8.4583
+"Morley, Mr. William",No,Male,34,Alone,8.05
+"Morrow, Mr. Thomas Rowan",No,Male,,Alone,7.75
+"Moss, Mr. Albert Johan",Yes,Male,,Alone,7.775
+"Moubarek, Master. Gerios",Yes,Male,,Not_Alone,15.2458
+"Moubarek, Master. Halim Gonios (""William George"")",Yes,Male,,Not_Alone,15.2458
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",Yes,Female,,Not_Alone,15.2458
+"Moussa, Mrs. (Mantoura Boulos)",Yes,Female,,Alone,7.2292
+"Moutal, Mr. Rahamin Haim",No,Male,,Alone,8.05
+"Mullens, Miss. Katherine ""Katie""",Yes,Female,,Alone,7.7333
+"Mulvihill, Miss. Bertha E",Yes,Female,24,Alone,7.75
+"Murdlin, Mr. Joseph",No,Male,,Alone,8.05
+"Murphy, Miss. Katherine ""Kate""",Yes,Female,,Not_Alone,15.5
+"Murphy, Miss. Margaret Jane",Yes,Female,,Not_Alone,15.5
+"Murphy, Miss. Nora",Yes,Female,,Alone,15.5
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",No,Male,18,Alone,7.75
+"Naidenoff, Mr. Penko",No,Male,22,Alone,7.8958
+"Najib, Miss. Adele Kiamie ""Jane""",Yes,Female,15,Alone,7.225
+"Nakid, Miss. Maria (""Mary"")",Yes,Female,1,Not_Alone,15.7417
+"Nakid, Mr. Sahid",Yes,Male,20,Not_Alone,15.7417
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",Yes,Female,19,Not_Alone,15.7417
+"Nancarrow, Mr. William Henry",No,Male,33,Alone,8.05
+"Nankoff, Mr. Minko",No,Male,,Alone,7.8958
+"Nasr, Mr. Mustafa",No,Male,,Alone,7.2292
+"Naughton, Miss. Hannah",No,Female,,Alone,7.75
+"Nenkoff, Mr. Christo",No,Male,,Alone,7.8958
+"Nicola-Yarred, Master. Elias",Yes,Male,12,Not_Alone,11.2417
+"Nicola-Yarred, Miss. Jamila",Yes,Female,14,Not_Alone,11.2417
+"Nieminen, Miss. Manta Josefina",No,Female,29,Alone,7.925
+"Niklasson, Mr. Samuel",No,Male,28,Alone,8.05
+"Nilsson, Miss. Berta Olivia",Yes,Female,18,Alone,7.775
+"Nilsson, Miss. Helmina Josefina",Yes,Female,26,Alone,7.8542
+"Nilsson, Mr. August Ferdinand",No,Male,21,Alone,7.8542
+"Nirva, Mr. Iisakki Antino Aijo",No,Male,41,Alone,7.125
+"Niskanen, Mr. Juha",Yes,Male,39,Alone,7.925
+"Nosworthy, Mr. Richard Cater",No,Male,21,Alone,7.8
+"Novel, Mr. Mansouer",No,Male,28.5,Alone,7.2292
+"Nysten, Miss. Anna Sofia",Yes,Female,22,Alone,7.75
+"Nysveen, Mr. Johan Hansen",No,Male,61,Alone,6.2375
+"O'Brien, Mr. Thomas",No,Male,,Not_Alone,15.5
+"O'Brien, Mr. Timothy",No,Male,,Alone,7.8292
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Yes,Female,,Not_Alone,15.5
+"O'Connell, Mr. Patrick D",No,Male,,Alone,7.7333
+"O'Connor, Mr. Maurice",No,Male,,Alone,7.75
+"O'Connor, Mr. Patrick",No,Male,,Alone,7.75
+"Odahl, Mr. Nils Martin",No,Male,23,Alone,9.225
+"O'Donoghue, Ms. Bridget",No,Female,,Alone,7.75
+"O'Driscoll, Miss. Bridget",Yes,Female,,Alone,7.75
+"O'Dwyer, Miss. Ellen ""Nellie""",Yes,Female,,Alone,7.8792
+"Ohman, Miss. Velin",Yes,Female,22,Alone,7.775
+"O'Keefe, Mr. Patrick",Yes,Male,,Alone,7.75
+"O'Leary, Miss. Hanora ""Norah""",Yes,Female,,Alone,7.8292
+"Olsen, Master. Artur Karl",Yes,Male,9,Not_Alone,3.1708
+"Olsen, Mr. Henry Margido",No,Male,28,Alone,22.525
+"Olsen, Mr. Karl Siegwart Andreas",No,Male,42,Not_Alone,8.4042
+"Olsen, Mr. Ole Martin",No,Male,,Alone,7.3125
+"Olsson, Miss. Elina",No,Female,31,Alone,7.8542
+"Olsson, Mr. Nils Johan Goransson",No,Male,28,Alone,7.8542
+"Olsson, Mr. Oscar Wilhelm",Yes,Male,32,Alone,7.775
+"Olsvigen, Mr. Thor Anderson",No,Male,20,Alone,9.225
+"Oreskovic, Miss. Jelka",No,Female,23,Alone,8.6625
+"Oreskovic, Miss. Marija",No,Female,20,Alone,8.6625
+"Oreskovic, Mr. Luka",No,Male,20,Alone,8.6625
+"Osen, Mr. Olaf Elon",No,Male,16,Alone,9.2167
+"Osman, Mrs. Mara",Yes,Female,31,Alone,8.6833
+"O'Sullivan, Miss. Bridget Mary",No,Female,,Alone,7.6292
+"Palsson, Master. Gosta Leonard",No,Male,2,Not_Alone,21.075
+"Palsson, Master. Paul Folke",No,Male,6,Not_Alone,21.075
+"Palsson, Miss. Stina Viola",No,Female,3,Not_Alone,21.075
+"Palsson, Miss. Torborg Danira",No,Female,8,Not_Alone,21.075
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",No,Female,29,Not_Alone,21.075
+"Panula, Master. Eino Viljami",No,Male,1,Not_Alone,39.6875
+"Panula, Master. Juha Niilo",No,Male,7,Not_Alone,39.6875
+"Panula, Master. Urho Abraham",No,Male,2,Not_Alone,39.6875
+"Panula, Mr. Ernesti Arvid",No,Male,16,Not_Alone,39.6875
+"Panula, Mr. Jaako Arnold",No,Male,14,Not_Alone,39.6875
+"Panula, Mrs. Juha (Maria Emilia Ojala)",No,Female,41,Not_Alone,39.6875
+"Pasic, Mr. Jakob",No,Male,21,Alone,8.6625
+"Patchett, Mr. George",No,Male,19,Alone,14.5
+"Paulner, Mr. Uscher",No,Male,,Alone,8.7125
+"Pavlovic, Mr. Stefo",No,Male,32,Alone,7.8958
+"Peacock, Master. Alfred Edward",No,Male,0,Not_Alone,13.775
+"Peacock, Miss. Treasteall",No,Female,3,Not_Alone,13.775
+"Peacock, Mrs. Benjamin (Edith Nile)",No,Female,26,Not_Alone,13.775
+"Pearce, Mr. Ernest",No,Male,,Alone,7
+"Pedersen, Mr. Olaf",No,Male,,Alone,7.775
+"Peduzzi, Mr. Joseph",No,Male,,Alone,8.05
+"Pekoniemi, Mr. Edvard",No,Male,21,Alone,7.925
+"Peltomaki, Mr. Nikolai Johannes",No,Male,25,Alone,7.925
+"Perkin, Mr. John Henry",No,Male,22,Alone,7.25
+"Persson, Mr. Ernst Ulrik",Yes,Male,25,Not_Alone,7.775
+"Peter, Master. Michael J",Yes,Male,,Not_Alone,22.3583
+"Peter, Miss. Anna",Yes,Female,,Not_Alone,22.3583
+"Peter, Mrs. Catherine (Catherine Rizk)",Yes,Female,,Not_Alone,22.3583
+"Peters, Miss. Katie",No,Female,,Alone,8.1375
+"Petersen, Mr. Marius",No,Male,24,Alone,8.05
+"Petranec, Miss. Matilda",No,Female,28,Alone,7.8958
+"Petroff, Mr. Nedelio",No,Male,19,Alone,7.8958
+"Petroff, Mr. Pastcho (""Pentcho"")",No,Male,,Alone,7.8958
+"Petterson, Mr. Johan Emil",No,Male,25,Not_Alone,7.775
+"Pettersson, Miss. Ellen Natalia",No,Female,18,Alone,7.775
+"Pickard, Mr. Berk (Berk Trembisky)",Yes,Male,32,Alone,8.05
+"Plotcharsky, Mr. Vasil",No,Male,,Alone,7.8958
+"Pokrnic, Mr. Mate",No,Male,17,Alone,8.6625
+"Pokrnic, Mr. Tome",No,Male,24,Alone,8.6625
+"Radeff, Mr. Alexander",No,Male,,Alone,7.8958
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",No,Female,,Alone,8.1125
+"Razi, Mr. Raihed",No,Male,,Alone,7.2292
+"Reed, Mr. James George",No,Male,,Alone,7.25
+"Rekic, Mr. Tido",No,Male,38,Alone,7.8958
+"Reynolds, Mr. Harold J",No,Male,21,Alone,8.05
+"Rice, Master. Albert",No,Male,10,Not_Alone,29.125
+"Rice, Master. Arthur",No,Male,4,Not_Alone,29.125
+"Rice, Master. Eric",No,Male,7,Not_Alone,29.125
+"Rice, Master. Eugene",No,Male,2,Not_Alone,29.125
+"Rice, Master. George Hugh",No,Male,8,Not_Alone,29.125
+"Rice, Mrs. William (Margaret Norton)",No,Female,39,Not_Alone,29.125
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",No,Female,22,Alone,39.6875
+"Rintamaki, Mr. Matti",No,Male,35,Alone,7.125
+"Riordan, Miss. Johanna ""Hannah""",Yes,Female,,Alone,7.7208
+"Risien, Mr. Samuel Beard",No,Male,,Alone,14.5
+"Risien, Mrs. Samuel (Emma)",No,Female,,Alone,14.5
+"Robins, Mr. Alexander A",No,Male,50,Not_Alone,14.5
+"Robins, Mrs. Alexander A (Grace Charity Laury)",No,Female,47,Not_Alone,14.5
+"Rogers, Mr. William John",No,Male,,Alone,8.05
+"Rommetvedt, Mr. Knud Paust",No,Male,,Alone,7.775
+"Rosblom, Miss. Salli Helena",No,Female,2,Not_Alone,20.2125
+"Rosblom, Mr. Viktor Richard",No,Male,18,Not_Alone,20.2125
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",No,Female,41,Not_Alone,20.2125
+"Roth, Miss. Sarah A",Yes,Female,,Alone,8.05
+"Rouse, Mr. Richard Henry",No,Male,50,Alone,8.05
+"Rush, Mr. Alfred George John",No,Male,16,Alone,8.05
+"Ryan, Mr. Edward",Yes,Male,,Alone,7.75
+"Ryan, Mr. Patrick",No,Male,,Alone,24.15
+"Saad, Mr. Amin",No,Male,,Alone,7.2292
+"Saad, Mr. Khalil",No,Male,25,Alone,7.225
+"Saade, Mr. Jean Nassr",No,Male,,Alone,7.225
+"Sadlier, Mr. Matthew",No,Male,,Alone,7.7292
+"Sadowitz, Mr. Harry",No,Male,,Alone,7.575
+"Saether, Mr. Simon Sivertsen",No,Male,38.5,Alone,7.25
+"Sage, Master. Thomas Henry",No,Male,,Not_Alone,69.55
+"Sage, Master. William Henry",No,Male,14.5,Not_Alone,69.55
+"Sage, Miss. Ada",No,Female,,Not_Alone,69.55
+"Sage, Miss. Constance Gladys",No,Female,,Not_Alone,69.55
+"Sage, Miss. Dorothy Edith ""Dolly""",No,Female,,Not_Alone,69.55
+"Sage, Miss. Stella Anna",No,Female,,Not_Alone,69.55
+"Sage, Mr. Douglas Bullen",No,Male,,Not_Alone,69.55
+"Sage, Mr. Frederick",No,Male,,Not_Alone,69.55
+"Sage, Mr. George John Jr",No,Male,,Not_Alone,69.55
+"Sage, Mr. John George",No,Male,,Not_Alone,69.55
+"Sage, Mrs. John (Annie Bullen)",No,Female,,Not_Alone,69.55
+"Salander, Mr. Karl Johan",No,Male,24,Alone,9.325
+"Salkjelsvik, Miss. Anna Kristine",Yes,Female,21,Alone,7.65
+"Salonen, Mr. Johan Werner",No,Male,39,Alone,7.925
+"Samaan, Mr. Elias",No,Male,,Not_Alone,21.6792
+"Samaan, Mr. Hanna",No,Male,,Not_Alone,21.6792
+"Samaan, Mr. Youssef",No,Male,,Not_Alone,21.6792
+"Sandstrom, Miss. Beatrice Irene",Yes,Female,1,Not_Alone,16.7
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Yes,Female,24,Not_Alone,16.7
+"Sandstrom, Miss. Marguerite Rut",Yes,Female,4,Not_Alone,16.7
+"Sap, Mr. Julius",Yes,Male,25,Alone,9.5
+"Saundercock, Mr. William Henry",No,Male,20,Alone,8.05
+"Sawyer, Mr. Frederick Charles",No,Male,24.5,Alone,8.05
+"Scanlan, Mr. James",No,Male,,Alone,7.725
+"Sdycoff, Mr. Todor",No,Male,,Alone,7.8958
+"Shaughnessy, Mr. Patrick",No,Male,,Alone,7.75
+"Sheerlinck, Mr. Jan Baptist",Yes,Male,29,Alone,9.5
+"Shellard, Mr. Frederick William",No,Male,,Alone,15.1
+"Shine, Miss. Ellen Natalia",Yes,Female,,Alone,7.7792
+"Shorney, Mr. Charles Joseph",No,Male,,Alone,8.05
+"Simmons, Mr. John",No,Male,,Alone,8.05
+"Sirayanian, Mr. Orsen",No,Male,22,Alone,7.2292
+"Sirota, Mr. Maurice",No,Male,,Alone,8.05
+"Sivic, Mr. Husein",No,Male,40,Alone,7.8958
+"Sivola, Mr. Antti Wilhelm",No,Male,21,Alone,7.925
+"Sjoblom, Miss. Anna Sofia",Yes,Female,18,Alone,7.4958
+"Skoog, Master. Harald",No,Male,4,Not_Alone,27.9
+"Skoog, Master. Karl Thorsten",No,Male,10,Not_Alone,27.9
+"Skoog, Miss. Mabel",No,Female,9,Not_Alone,27.9
+"Skoog, Miss. Margit Elizabeth",No,Female,2,Not_Alone,27.9
+"Skoog, Mr. Wilhelm",No,Male,40,Not_Alone,27.9
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",No,Female,45,Not_Alone,27.9
+"Slabenoff, Mr. Petco",No,Male,,Alone,7.8958
+"Slocovski, Mr. Selman Francis",No,Male,,Alone,8.05
+"Smiljanic, Mr. Mile",No,Male,,Alone,8.6625
+"Smith, Mr. Thomas",No,Male,,Alone,7.75
+"Smyth, Miss. Julia",Yes,Female,,Alone,7.7333
+"Soholt, Mr. Peter Andreas Lauritz Andersen",No,Male,19,Alone,7.65
+"Somerton, Mr. Francis William",No,Male,30,Alone,8.05
+"Spector, Mr. Woolf",No,Male,,Alone,8.05
+"Spinner, Mr. Henry John",No,Male,32,Alone,8.05
+"Staneff, Mr. Ivan",No,Male,,Alone,7.8958
+"Stankovic, Mr. Ivan",No,Male,33,Alone,8.6625
+"Stanley, Miss. Amy Zillah Elsie",Yes,Female,23,Alone,7.55
+"Stanley, Mr. Edward Roland",No,Male,21,Alone,8.05
+"Storey, Mr. Thomas",No,Male,60.5,Alone,
+"Stoytcheff, Mr. Ilia",No,Male,19,Alone,7.8958
+"Strandberg, Miss. Ida Sofia",No,Female,22,Alone,9.8375
+"Stranden, Mr. Juho",Yes,Male,31,Alone,7.925
+"Strilic, Mr. Ivan",No,Male,27,Alone,8.6625
+"Strom, Miss. Telma Matilda",No,Female,2,Not_Alone,10.4625
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",No,Female,29,Not_Alone,10.4625
+"Sunderland, Mr. Victor Francis",Yes,Male,16,Alone,8.05
+"Sundman, Mr. Johan Julian",Yes,Male,44,Alone,7.925
+"Sutehall, Mr. Henry Jr",No,Male,25,Alone,7.05
+"Svensson, Mr. Johan",No,Male,74,Alone,7.775
+"Svensson, Mr. Johan Cervin",Yes,Male,14,Alone,9.225
+"Svensson, Mr. Olof",No,Male,24,Alone,7.7958
+"Tenglin, Mr. Gunnar Isidor",Yes,Male,25,Alone,7.7958
+"Theobald, Mr. Thomas Leonard",No,Male,34,Alone,8.05
+"Thomas, Master. Assad Alexander",Yes,Male,0,Not_Alone,8.5167
+"Thomas, Mr. Charles P",No,Male,,Not_Alone,6.4375
+"Thomas, Mr. John",No,Male,,Alone,6.4375
+"Thomas, Mr. Tannous",No,Male,,Alone,7.225
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",Yes,Female,16,Not_Alone,8.5167
+"Thomson, Mr. Alexander Morrison",No,Male,,Alone,8.05
+"Thorneycroft, Mr. Percival",No,Male,,Not_Alone,16.1
+"Thorneycroft, Mrs. Percival (Florence Kate White)",Yes,Female,,Not_Alone,16.1
+"Tikkanen, Mr. Juho",No,Male,32,Alone,7.925
+"Tobin, Mr. Roger",No,Male,,Alone,7.75
+"Todoroff, Mr. Lalio",No,Male,,Alone,7.8958
+"Tomlin, Mr. Ernest Portage",No,Male,30.5,Alone,8.05
+"Torber, Mr. Ernst William",No,Male,44,Alone,8.05
+"Torfa, Mr. Assad",No,Male,,Alone,7.2292
+"Tornquist, Mr. William Henry",Yes,Male,25,Alone,0
+"Toufik, Mr. Nakli",No,Male,,Alone,7.2292
+"Touma, Master. Georges Youssef",Yes,Male,7,Not_Alone,15.2458
+"Touma, Miss. Maria Youssef",Yes,Female,9,Not_Alone,15.2458
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",Yes,Female,29,Not_Alone,15.2458
+"Turcin, Mr. Stjepan",No,Male,36,Alone,7.8958
+"Turja, Miss. Anna Sofia",Yes,Female,18,Alone,9.8417
+"Turkula, Mrs. (Hedwig)",Yes,Female,63,Alone,9.5875
+"van Billiard, Master. James William",No,Male,,Not_Alone,14.5
+"van Billiard, Master. Walter John",No,Male,11.5,Not_Alone,14.5
+"van Billiard, Mr. Austin Blyler",No,Male,40.5,Not_Alone,14.5
+"Van Impe, Miss. Catharina",No,Female,10,Not_Alone,24.15
+"Van Impe, Mr. Jean Baptiste",No,Male,36,Not_Alone,24.15
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",No,Female,30,Not_Alone,24.15
+"van Melkebeke, Mr. Philemon",No,Male,,Alone,9.5
+"Vande Velde, Mr. Johannes Joseph",No,Male,33,Alone,9.5
+"Vande Walle, Mr. Nestor Cyriel",No,Male,28,Alone,9.5
+"Vanden Steen, Mr. Leo Peter",No,Male,28,Alone,9.5
+"Vander Cruyssen, Mr. Victor",No,Male,47,Alone,9
+"Vander Planke, Miss. Augusta Maria",No,Female,18,Not_Alone,18
+"Vander Planke, Mr. Julius",No,Male,31,Not_Alone,18
+"Vander Planke, Mr. Leo Edmondus",No,Male,16,Not_Alone,18
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",No,Female,31,Not_Alone,18
+"Vartanian, Mr. David",Yes,Male,22,Alone,7.225
+"Vendel, Mr. Olof Edvin",No,Male,20,Alone,7.8542
+"Vestrom, Miss. Hulda Amanda Adolfina",No,Female,14,Alone,7.8542
+"Vovk, Mr. Janko",No,Male,22,Alone,7.8958
+"Waelens, Mr. Achille",No,Male,22,Alone,9
+"Ware, Mr. Frederick",No,Male,,Alone,8.05
+"Warren, Mr. Charles William",No,Male,,Alone,7.55
+"Webber, Mr. James",No,Male,,Alone,8.05
+"Wenzel, Mr. Linhart",No,Male,32.5,Alone,9.5
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",Yes,Female,38,Alone,7.2292
+"Widegren, Mr. Carl/Charles Peter",No,Male,51,Alone,7.75
+"Wiklund, Mr. Jakob Alfred",No,Male,18,Not_Alone,6.4958
+"Wiklund, Mr. Karl Johan",No,Male,21,Not_Alone,6.4958
+"Wilkes, Mrs. James (Ellen Needs)",Yes,Female,47,Not_Alone,7
+"Willer, Mr. Aaron (""Abi Weller"")",No,Male,,Alone,8.7125
+"Willey, Mr. Edward",No,Male,,Alone,7.55
+"Williams, Mr. Howard Hugh ""Harry""",No,Male,,Alone,8.05
+"Williams, Mr. Leslie",No,Male,28.5,Alone,16.1
+"Windelov, Mr. Einar",No,Male,21,Alone,7.25
+"Wirz, Mr. Albert",No,Male,27,Alone,8.6625
+"Wiseman, Mr. Phillippe",No,Male,,Alone,7.25
+"Wittevrongel, Mr. Camille",No,Male,36,Alone,9.5
+"Yasbeck, Mr. Antoni",No,Male,27,Not_Alone,14.4542
+"Yasbeck, Mrs. Antoni (Selini Alexander)",Yes,Female,15,Not_Alone,14.4542
+"Youseff, Mr. Gerious",No,Male,45.5,Alone,7.225
+"Yousif, Mr. Wazli",No,Male,,Alone,7.225
+"Yousseff, Mr. Gerious",No,Male,,Alone,14.4583
+"Zabour, Miss. Hileni",No,Female,14.5,Not_Alone,14.4542
+"Zabour, Miss. Thamine",No,Female,,Not_Alone,14.4542
+"Zakarian, Mr. Mapriededer",No,Male,26.5,Alone,7.225
+"Zakarian, Mr. Ortin",No,Male,27,Alone,7.225
+"Zimmerman, Mr. Leo",No,Male,29,Alone,7.875
